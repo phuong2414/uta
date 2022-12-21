@@ -1,0 +1,19 @@
+<% _.each(data, function(items){ %>
+    <div class="column"><%_.each(items, function(item) {
+            var id = item.id,
+                selected = item.id == drcom.menuItem ? "selected":"",
+                style = item.propertyStyle + ":" + item.propertyValue,
+                cls = "icon-" + item.classValue;
+            
+            if(item.ignoreItem != undefined) {
+                var ignoreItem = item.ignoreItem ? "ignoreItem":"";
+        %>
+            <div class="breadcrumb-item <%=ignoreItem%>" data-menuId="<%= id%>"></div>
+        <%
+            } else {
+        %>
+            <div class="breadcrumb-item <%=selected%> <%=cls%>" style="<%=style%>" data-menuId="<%= id%>"></div>
+        <% }
+            });%>
+    </div>
+<% });%>

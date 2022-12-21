@@ -1,0 +1,57 @@
+#marker {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 1024px !important;
+	height: 768px !important;
+	z-index: 97;
+}
+.colorPicker {
+	position: absolute;
+	width: 30px;
+	height: 36px;
+	top: 125px;
+	left: 994px;
+	background: url(../images/pen-tool.svg) 8px 8px no-repeat #fff;
+	background-size: 20px 20px; 
+	-webkit-border-radius: 20px 0px 0px 20px;
+	-webkit-box-shadow: 3px 3px 5px rgba(144,144,144,.33) inset;
+	z-index: 98;
+}
+.color-list { background: url(../images/colorpicker-bg.png) no-repeat;
+	position: absolute;
+	list-style: none;
+	width: 114px;
+	height: 228px;
+	padding: 5px;
+	top: 15px;
+	left: 910px;
+	z-index: 97;
+}
+.color-list li { -webkit-border-radius:25px; position: absolute; -webkit-box-shadow: 1px 0 1px #333;
+	float: left;
+	width: 25px;
+	height: 25px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+.color-list li:nth-child(3), color-list li:nth-child(6) {
+	margin-right: 0;
+}
+
+.color-list li:nth-child(1) {top:30px; right: 10px;}
+.color-list li:nth-child(2) {top:49px; right: 45px;}
+.color-list li:nth-child(3) {top:79px; right: 71px;}
+.color-list li:nth-child(4) {top:115px; right: 66px;}
+.color-list li:nth-child(5) {top:148px; right: 45px;}
+.color-list li:nth-child(6) {top:170px; right: 10px;}
+
+
+
+
+
+
+
+
+
