@@ -1,0 +1,173 @@
+{
+	"kj8twc8vImage": {
+		"src": "media/images/Brintellix_46/948e1d083ab76291.png?1609867800594",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twc8wImage": {
+		"src": "media/images/Brintellix_46/c3d85dfb063ace81.png?1609867698372",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twc8xImage": {
+		"src": "media/images/Brintellix_46/img-kj8twbok.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twc8yImage": {
+		"src": "media/images/Brintellix_46/img-kj8twbp0.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twc8zImage": {
+		"src": "media/images/Brintellix_46/img-kj8twboe.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twc90Image": {
+		"src": "media/images/Brintellix_46/img-kj8twboc.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twc91Image": {
+		"src": "media/images/Brintellix_46/img-kj8twbnz.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twc92Image": {
+		"src": "media/images/Brintellix_46/img-kj8twbnv.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twc93Image": {
+		"src": "media/images/Brintellix_46/img-kj8twbry.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-popup_97c524bc": {
+		"id": "co-popup_97c524bc",
+		"title": "Popup ref",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": false,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_b021777b": {
+		"html": "t.Brintellix_46d32eeec8"
+	},
+	"co-text_414f34ac": {
+		"html": "t.Brintellix_46baf1ea2a"
+	},
+	"open_ae1029d1": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_46/7d5a0e052bd0.pdf?1611939357248",
+		"page": 1
+	},
+	"co-text_1a69fd5b": {
+		"html": "t.Brintellix_46f0d9bda1"
+	},
+	"open_2086d9b2": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_46/451a100ed74a.pdf?1611939384789",
+		"page": 1
+	},
+	"co-text_891e0a38": {
+		"html": "t.Brintellix_460ef81b93"
+	},
+	"open-popup_7c97bf01": {
+		"id": "co-popup_97c524bc",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"co-text_ba684df9": {
+		"html": "t.Brintellix_4665ec0b89"
+	},
+	"open-popup_760ff51b": {
+		"id": "co-popup_97c524bc",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"co-container_a9f904a2": {},
+	"co-text_c90ba59a": {
+		"html": "t.Brintellix_466f26cd30"
+	},
+	"co-text_bbb5783a": {
+		"html": "t.Brintellix_46f2ea106c"
+	},
+	"co-text_38c6900f": {
+		"html": "t.Brintellix_462362af79"
+	},
+	"nav_bb8600f7": {
+		"event": "tap",
+		"slide": "Brintellix_44",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_fb6cb890": {
+		"event": "tap",
+		"slide": "Brintellix_45",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_9aa5c57e": {
+		"event": "tap",
+		"slide": "Brintellix_39",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"co-text_2060bba3": {
+		"html": "t.Brintellix_46f6562a3b"
+	},
+	"co-text_71b2b9f9": {
+		"html": "t.Brintellix_46abc8f0ea"
+	},
+	"nav_c7dd2811": {
+		"event": "tap",
+		"navigation": "Slide",
+		"slide": "Brintellix_NewAss_3",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	}
+}

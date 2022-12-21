@@ -1,0 +1,280 @@
+#kj8twg0eImage {
+  width: 781px;
+  height: 378px;
+  -webkit-transform: matrix(1, 0, 0, 1, 114, 184);
+  transform: matrix(1, 0, 0, 1, 114, 184);
+}
+
+#kj8twg0fImage {
+  width: 70px;
+  height: 38px;
+  -webkit-transform: matrix(1, 0, 0, 1, 950, 134);
+  transform: matrix(1, 0, 0, 1, 950, 134);
+}
+
+#kj8twg0iImage {
+  width: 119px;
+  height: 41px;
+  -webkit-transform: matrix(1, 0, 0, 1, 453.8, 727);
+  transform: matrix(1, 0, 0, 1, 453.8, 727);
+}
+
+#kj8twg0jImage {
+  width: 119px;
+  height: 41px;
+  -webkit-transform: matrix(1, 0, 0, 1, 54, 727);
+  transform: matrix(1, 0, 0, 1, 54, 727);
+}
+
+#kj8twg0lImage {
+  width: 164px;
+  height: 41px;
+  -webkit-transform: matrix(1, 0, 0, 1, 290.2, 727);
+  transform: matrix(1, 0, 0, 1, 290.2, 727);
+}
+
+#kj8twg0mImage {
+  width: 118px;
+  height: 40px;
+  -webkit-transform: matrix(1, 0, 0, 1, 171.8, 728);
+  transform: matrix(1, 0, 0, 1, 171.8, 728);
+}
+
+#kj8twg0nImage {
+  width: 119px;
+  height: 41px;
+  -webkit-transform: matrix(1, 0, 0, 1, 171.8, 727);
+  transform: matrix(1, 0, 0, 1, 171.8, 727);
+}
+
+#kj8twg0yText {
+  -webkit-transform: matrix(0, -0.5, 0.5, 0, -28, 0.8);
+  transform: matrix(0, -0.5, 0.5, 0, -28, 0.8);
+}
+
+#co-text_526b001a {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 506.4, 47.4);
+  transform: matrix(1, 0, 0, 1, 506.4, 47.4);
+  z-index: 1;
+  opacity: 0;
+  width: 59px;
+  height: 50px;
+}
+
+#co-text_e6b2c63f {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 783.6, 130);
+  transform: matrix(1, 0, 0, 1, 783.6, 130);
+  z-index: 2;
+  opacity: 0;
+  width: 37px;
+  height: 34px;
+}
+
+#co-text_a9e98095 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 738.6, 620.4);
+  transform: matrix(1, 0, 0, 1, 738.6, 620.4);
+  z-index: 3;
+  opacity: 0;
+  width: 40px;
+  height: 35px;
+}
+
+#co-popup_9f1570ba {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  z-index: 10000;
+  width: 1024px;
+  height: 768px;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-top-color: rgb(69, 94, 147);
+  border-right-color: rgb(69, 94, 147);
+  border-bottom-color: rgb(69, 94, 147);
+  border-left-color: rgb(69, 94, 147);
+  border-radius: 0px 0px 0px 0px;
+  background-color: transparent;
+  background-image: url("../media/images/Brintellix_49/0c42cec6.png");
+  background-size: contain;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+#co-text_fc46c709 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 170, 302.8);
+  transform: matrix(1, 0, 0, 1, 170, 302.8);
+  z-index: 1;
+  width: 162px;
+  height: 31px;
+}
+
+#co-popup_9f1570ba > co-button:nth-child(1) > co-container:nth-child(1) {
+  -webkit-transform: matrix(1, 0, 0, 1, -123.2, 264);
+  transform: matrix(1, 0, 0, 1, -123.2, 264);
+  opacity: 0;
+}
+
+#co-text_b4b65d2b {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 170, 336);
+  transform: matrix(1, 0, 0, 1, 170, 336);
+  z-index: 2;
+  width: 473px;
+  height: 24px;
+}
+
+#co-text_8424efe5 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 170, 358);
+  transform: matrix(1, 0, 0, 1, 170, 358);
+  z-index: 3;
+  width: 556px;
+  height: 22px;
+}
+
+#co-text_770edf8b {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 170, 381.2);
+  transform: matrix(1, 0, 0, 1, 170, 381.2);
+  z-index: 4;
+  width: 485px;
+  height: 22px;
+}
+
+#co-text_20744e5a {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 170, 404.4);
+  transform: matrix(1, 0, 0, 1, 170, 404.4);
+  z-index: 5;
+  width: 398px;
+  height: 23px;
+}
+
+#co-text_3267550b {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 170, 426.8);
+  transform: matrix(1, 0, 0, 1, 170, 426.8);
+  z-index: 6;
+  width: 442px;
+  height: 24px;
+}
+
+#co-popup_9f1570ba > co-button:nth-child(7) > co-container:nth-child(1) {
+  -webkit-transform: matrix(1, 0, 0, 1, -123, 265);
+  transform: matrix(1, 0, 0, 1, -123, 265);
+  opacity: 0;
+}
+
+#kj8twg0vText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 2.4, 0);
+  transform: matrix(0.5, 0, 0, 0.5, 2.4, 0);
+}
+
+#kj8twg0tText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, -1.6, 0.8);
+  transform: matrix(0.5, 0, 0, 0.5, -1.6, 0.8);
+}
+
+#co-container_ec086cad {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 56, 728);
+  transform: matrix(1, 0, 0, 1, 56, 728);
+  z-index: 4;
+  width: 968px;
+  height: 40px;
+}
+
+#co-text_7e675f73 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 1.2, 0);
+  transform: matrix(1, 0, 0, 1, 1.2, 0);
+  z-index: 1;
+  width: 115px;
+  height: 40px;
+  opacity: 0;
+}
+
+#co-text_07049ff2 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 231.8, 0);
+  transform: matrix(1, 0, 0, 1, 231.8, 0);
+  z-index: 4;
+  width: 166px;
+  height: 40px;
+  opacity: 0;
+}
+
+#co-text_a306bb09 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 398.4, 0);
+  transform: matrix(1, 0, 0, 1, 398.4, 0);
+  z-index: 6;
+  width: 117px;
+  height: 40px;
+  opacity: 0;
+}
+
+#co-text_8424efe5 > span[rv-html="html"]:nth-child(1) {
+  word-wrap: break-word;
+  -webkit-line-break: after-white-space;
+}
+
+#co-text_770edf8b > span[rv-html="html"]:nth-child(1) {
+  word-wrap: break-word;
+  -webkit-line-break: after-white-space;
+}
+
+#co-text_ce738546 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 99.6, 741.2);
+  transform: matrix(1, 0, 0, 1, 99.6, 741.2);
+  z-index: 1;
+  width: 471px;
+  height: 16px;
+}
+
+#co-text_ce738546 > span[rv-html="html"]:nth-child(1) {
+  word-wrap: break-word;
+  -webkit-line-break: after-white-space;
+}
+
+#pf15 > div[ebox="true"]:nth-child(1) {
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}

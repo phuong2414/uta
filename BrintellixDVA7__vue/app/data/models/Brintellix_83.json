@@ -1,0 +1,79 @@
+{
+	"kja6j5deImage": {
+		"src": "media/images/Brintellix_83/5b813de35f45a75b.png?1610679890987",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6j5dfImage": {
+		"src": "media/images/Brintellix_83/82893f63f327e6fe.png?1610679939222",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text-button_84b49677": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_83ae34d085"
+		}
+	},
+	"co-popup_be5da2ab": {
+		"id": "co-popup_be5da2ab",
+		"title": "Popup_ref",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": true,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_d09bf640": {
+		"html": "t.Brintellix_836bedbebc"
+	},
+	"co-text_0be63deb": {
+		"html": "t.Brintellix_8345f53767"
+	},
+	"open_8777fb50": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_83/43294da5ef71.pdf?1609807282998",
+		"page": 1
+	},
+	"open-popup_3ab29a7e": {
+		"id": "co-popup_be5da2ab",
+		"on": "tap",
+		"onglobal": ""
+	}
+}

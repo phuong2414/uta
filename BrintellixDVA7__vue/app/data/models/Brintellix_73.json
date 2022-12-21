@@ -1,0 +1,92 @@
+{
+	"kja6iwl1Image": {
+		"src": "media/images/Brintellix_73/9e7b06189864c73f.png?1610586689808",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6iwl2Image": {
+		"src": "media/images/Brintellix_73/23a992aed706d71e.png?1610648221827",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6iwl4Image": {
+		"src": "media/images/Brintellix_73/img-kja6iw7j.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text-button_d738de0d": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_73c03c8cc2"
+		}
+	},
+	"co-popup_28b07db5": {
+		"id": "co-popup_28b07db5",
+		"title": "Popup_ref",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": false,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_eb9ee6df": {
+		"html": "t.Brintellix_7380ee76c5"
+	},
+	"co-text_8a754188": {
+		"html": "t.Brintellix_73ae1cb5b2"
+	},
+	"open-popup_05905b5d": {
+		"id": "co-popup_28b07db5",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"open_10c3abaa": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_73/346d77a38174.pdf?1610645481428",
+		"page": 1
+	},
+	"nav_46be7f60": {
+		"event": "tap",
+		"navigation": "Slide",
+		"slide": "Brintellix_31",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	}
+}

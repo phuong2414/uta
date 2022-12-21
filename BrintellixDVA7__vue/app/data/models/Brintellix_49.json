@@ -1,0 +1,246 @@
+{
+	"kj8twg0eImage": {
+		"src": "media/images/Brintellix_49/c6ffafb524d9c1db.png?1609868367686",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twg0fImage": {
+		"src": "media/images/Brintellix_49/bb8ee2ef0c214326.png?1609868268326",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twg0gImage": {
+		"src": "media/images/Brintellix_49/img-kj8twffg.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twg0hImage": {
+		"src": "media/images/Brintellix_49/img-kj8twfic.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twg0iImage": {
+		"src": "media/images/Brintellix_49/img-kj8twfim.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twg0jImage": {
+		"src": "media/images/Brintellix_49/img-kj8twfj2.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twg0kImage": {
+		"src": "media/images/Brintellix_49/img-kj8twfft.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twg0lImage": {
+		"src": "media/images/Brintellix_49/img-kj8twfhn.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twg0mImage": {
+		"src": "media/images/Brintellix_49/img-kj8twfhq.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kj8twg0nImage": {
+		"src": "media/images/Brintellix_49/img-kj8twfho.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text_526b001a": {
+		"html": "t.Brintellix_499ab4721b"
+	},
+	"co-text_e6b2c63f": {
+		"html": "t.Brintellix_4968d708cd"
+	},
+	"co-text_a9e98095": {
+		"html": "t.Brintellix_49d1958e9b"
+	},
+	"co-popup_9f1570ba": {
+		"id": "co-popup_9f1570ba",
+		"title": "Popup ref",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": false,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_fc46c709": {
+		"html": "t.Brintellix_4942a83df8"
+	},
+	"co-text_b4b65d2b": {
+		"html": "t.Brintellix_490fca9331"
+	},
+	"open_41885959": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_49/f8fc44bbad25.pdf?1649321384157",
+		"page": 1
+	},
+	"co-text_8424efe5": {
+		"html": "t.Brintellix_49e25c30fd"
+	},
+	"open_b436023d": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_49/BrintellixSmPC.pdf?1649321424777",
+		"page": 1
+	},
+	"co-text_770edf8b": {
+		"html": "t.Brintellix_491ae0e8f3"
+	},
+	"open_bf4b0f50": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_49/Cipralex_LexaproTabletPI_2020.pdf?1609435365787",
+		"page": 1
+	},
+	"co-text_20744e5a": {
+		"html": "t.Brintellix_4966879b99"
+	},
+	"open_f62e9f91": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_49/a74c8aa898ec.pdf?1649321449181",
+		"page": 1
+	},
+	"co-text_3267550b": {
+		"html": "t.Brintellix_49589bfe78"
+	},
+	"open_dd0253c9": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_49/3173c6dc432d.pdf?1649321477475",
+		"page": 1
+	},
+	"open-popup_0732f9e1": {
+		"id": "co-popup_9f1570ba",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"open-popup_48c3571c": {
+		"id": "co-popup_9f1570ba",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"open-popup_d2eb8308": {
+		"id": "co-popup_9f1570ba",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"co-container_ec086cad": {},
+	"co-text_7e675f73": {
+		"html": "t.Brintellix_499eed28c4"
+	},
+	"co-text_0930d19a": {
+		"html": "t.Brintellix_49ff64f5a1"
+	},
+	"co-text_e835c50c": {
+		"html": "t.Brintellix_496e3990a0"
+	},
+	"co-text_07049ff2": {
+		"html": "t.Brintellix_4981e6950f"
+	},
+	"co-text_5dbd85f6": {
+		"html": "t.Brintellix_4918ec7a3e"
+	},
+	"co-text_a306bb09": {
+		"html": "t.Brintellix_493c224484"
+	},
+	"nav_67e2e271": {
+		"event": "tap",
+		"slide": "Brintellix_47",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_25a11a6e": {
+		"event": "tap",
+		"slide": "Brintellix_48",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_aa1e4481": {
+		"event": "tap",
+		"slide": "Brintellix_50",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_7a4788df": {
+		"event": "tap",
+		"slide": "Brintellix_52",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_76ea0f00": {
+		"event": "tap",
+		"slide": "Brintellix_52",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_ae4d00e4": {
+		"event": "tap",
+		"slide": "Brintellix_34",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_c2771e8b": {
+		"event": "tap",
+		"navigation": "Slide",
+		"slide": "Brintellix_74",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	},
+	"co-text_ce738546": {
+		"html": "t.Brintellix_49be9a28ad"
+	}
+}

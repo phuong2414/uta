@@ -1,0 +1,99 @@
+{
+	"kja6iychImage": {
+		"src": "media/images/Brintellix_75/37a7efa6edf65121.png?1610649547030",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6iyciImage": {
+		"src": "media/images/Brintellix_75/img-kja6ixyy.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6iyckImage": {
+		"src": "media/images/Brintellix_75/img-kja6ixzv.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text-button_068837b7": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_755cc97a44"
+		}
+	},
+	"co-popup_7ce29f3e": {
+		"id": "co-popup_7ce29f3e",
+		"title": "Popup_ref",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": true,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_395c1a55": {
+		"html": "t.Brintellix_7520ac85bf"
+	},
+	"co-text_c854e87c": {
+		"html": "t.Brintellix_75ce868cc5"
+	},
+	"open-popup_aaad1e89": {
+		"id": "co-popup_7ce29f3e",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"kja6iyceImage": {
+		"src": "media/images/Brintellix_75/img-kja6ixya.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6iycfImage": {
+		"src": "media/images/Brintellix_75/img-kja6ixy9.jpg",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6iycgImage": {
+		"src": "media/images/Brintellix_75/img-kja6ixyz.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"open_bdd391c4": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_75/c928c9c4b539.pdf?1610649691565",
+		"page": 1
+	}
+}

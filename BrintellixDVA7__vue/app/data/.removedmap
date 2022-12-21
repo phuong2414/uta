@@ -1,0 +1,489 @@
+{
+	"Brintellix_2": [
+		"#co-text-button_25e75ed7 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_25e75ed7 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_45ee128b > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_45ee128b > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_760b0c26 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_760b0c26 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_3": [],
+	"Brintellix_4": [
+		"#co-text-button_bb90cb72 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_bb90cb72 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_3c3b4dc2 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_3c3b4dc2 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_3586dcdc > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_3586dcdc > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_7": [],
+	"Brintellix_8": [
+		"#co-text-button_944c43df > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_944c43df > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_10": [],
+	"Brintellix_11": [],
+	"Brintellix_12": [],
+	"Brintellix_20": [
+		"#co-text-button_b7b0a19b > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_b7b0a19b > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_9364cff1 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_9364cff1 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_78027695 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_78027695 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_25": [
+		"#co-text-button_260ef093 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_260ef093 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_8ee56b4f > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8ee56b4f > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_77205107 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_77205107 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_e8bc5697 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_e8bc5697 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_89bab313 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_89bab313 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_26": [
+		"#co-text-button_a49d3b6a > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_a49d3b6a > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_d3649f28 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d3649f28 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_4b369057 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_4b369057 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_13": [
+		"#co-text-button_be0b8832 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_be0b8832 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_aa66e0bb > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_aa66e0bb > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_14": [
+		"#co-text-button_fe28a230 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_fe28a230 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_15": [
+		"#co-text-button_7818ad0b > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_7818ad0b > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_16": [
+		"#co-text-button_c3162bf8 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_c3162bf8 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_3e7c54bc > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_3e7c54bc > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_360f59c8 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_360f59c8 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_697d25f0 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_697d25f0 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_bec38d6a > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_bec38d6a > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_9fda6224 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_9fda6224 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_17": [
+		"#co-text-button_8fb68096 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8fb68096 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_18": [
+		"#co-text-button_71ec9d24 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_71ec9d24 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_19": [
+		"#co-text-button_a227ca49 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_a227ca49 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_22": [
+		"#co-text-button_b758a65d > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_b758a65d > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_3eeb7af3 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_3eeb7af3 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_27c76c02 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_27c76c02 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_f2b0644c > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_f2b0644c > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_23": [
+		"#co-text-button_2ad275ad > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_2ad275ad > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_3a358323 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_3a358323 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_936459bc > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_936459bc > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_24": [
+		"#co-text-button_8ccf91e1 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8ccf91e1 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_191d9908 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_191d9908 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_94c8c835 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_94c8c835 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_27": [
+		"#co-text-button_b41ecf00 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_b41ecf00 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_28": [
+		"#co-text-button_5195f76c > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_5195f76c > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_0bc4c525 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_0bc4c525 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_07892169 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_07892169 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_4ed23af2 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_4ed23af2 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_f6dfa3c1 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_f6dfa3c1 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_09da4fa9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_09da4fa9 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_6": [
+		"#co-text-button_349b58ee > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_349b58ee > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_4d4d4074 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_4d4d4074 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_a2e0c919 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_a2e0c919 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_e18a5cd9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_e18a5cd9 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_21": [
+		"#co-text-button_979fe678 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_979fe678 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_f1d13f53 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_f1d13f53 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_e60284dc > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_e60284dc > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_5": [
+		"#co-text-button_8b87447a > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8b87447a > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_26ca8c5f > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_26ca8c5f > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_772a49d9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_772a49d9 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_c204e19d > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_c204e19d > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_801e1096 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_801e1096 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_cdc06ea9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_cdc06ea9 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_a07c29ef > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_a07c29ef > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_f3134539 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_f3134539 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_50fc66b9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_50fc66b9 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_35cef93c > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_35cef93c > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_9e7156fa > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_9e7156fa > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_fc404c1a > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_fc404c1a > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_c3eb5df1 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_c3eb5df1 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_1e49482b > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_1e49482b > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_5a0c13a0 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_5a0c13a0 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_d9854850 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d9854850 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_4bb38a5c > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_4bb38a5c > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_b4bba787 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_b4bba787 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_1": [],
+	"common": [
+		"#co-text-button_fc0e15a0 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_fc0e15a0 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_d09438aa > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d09438aa > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_8be0eb07 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8be0eb07 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_8b55ef56 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8b55ef56 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_fa55841c > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_fa55841c > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_1a69f8d0 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_1a69f8d0 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_b7dbd9b9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_b7dbd9b9 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_ac6d3151 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_ac6d3151 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_d3d59710 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d3d59710 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_b0ad2261 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_b0ad2261 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_cc41254d > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_cc41254d > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_d93684b6 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d93684b6 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_cbc0f716 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_cbc0f716 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_5bae149b > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_5bae149b > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_c8f21b82 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_c8f21b82 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_d59ddb73 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d59ddb73 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_8538542d > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8538542d > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_fe3ac68a > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_fe3ac68a > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_199169d6 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_199169d6 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_92d3114f > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_92d3114f > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_fb4a1a7b > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_fb4a1a7b > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_7e5c3646 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_7e5c3646 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_3eaa14ad > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_3eaa14ad > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_a4ab06cd > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_a4ab06cd > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_a9357b60 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_a9357b60 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_32a79db2 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_32a79db2 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_06292642 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_06292642 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_9bda73d1 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_9bda73d1 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_28e739a8 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_28e739a8 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_4593e870 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_4593e870 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_f3a383d3 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_f3a383d3 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_8294b6b2 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8294b6b2 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_ea28fc01 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_ea28fc01 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_40affb0f > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_40affb0f > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_65": [],
+	"Brintellix_66": [],
+	"Brintellix_67": [],
+	"Brintellix_68": [],
+	"Brintellix_69": [],
+	"Brintellix_60": [
+		"#co-text-button_d029fedd > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d029fedd > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_4d210c98 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_4d210c98 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_8580c178 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8580c178 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_18eec53c > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_18eec53c > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text_d5ea39ea",
+		"#co-text_d5ea39ea *",
+		"#co-textarea_b91a6231",
+		"#co-textarea_b91a6231 *"
+	],
+	"Brintellix_61": [
+		"#co-text-button_fd0fb804 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_fd0fb804 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_4ff8cce4 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_4ff8cce4 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_ac280b7f > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_ac280b7f > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_9fc28927 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_9fc28927 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_63": [
+		"#co-text-button_c9f0fe17 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_c9f0fe17 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_64": [
+		"#co-text-button_39342406 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_39342406 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_71": [],
+	"Brintellix_72": [],
+	"Brintellix_73": [],
+	"Brintellix_29": [
+		"#co-text-button_68164515 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_68164515 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_8792a908 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8792a908 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_dc4a31eb > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_dc4a31eb > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_4d6daefd > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_4d6daefd > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_cdaf990b > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_cdaf990b > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_d9780d42 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d9780d42 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_d50a80e5 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d50a80e5 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_9f8a73a9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_9f8a73a9 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_51a6819b > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_51a6819b > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_30": [],
+	"Brintellix_31": [],
+	"Brintellix_32": [],
+	"Brintellix_33": [],
+	"Brintellix_34": [
+		"#co-text-button_5b6b31d2 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_5b6b31d2 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#kj8tvw9jImage",
+		"#kj8tvw9jImage *",
+		"#kj8tvw9iImage",
+		"#kj8tvw9iImage *"
+	],
+	"Brintellix_35": [],
+	"Brintellix_36": [
+		"#co-text-button_b14a58e9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_b14a58e9 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#kj8tvz3xText",
+		"#kj8tvz3xText *"
+	],
+	"Brintellix_59": [
+		"#co-text-button_5e79dc79 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_5e79dc79 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_5dc341f3 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_5dc341f3 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_01aea3ca > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_01aea3ca > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_166fe079 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_166fe079 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_9f10b0f0 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_9f10b0f0 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_37": [
+		"#kj8tw0hxText",
+		"#kj8tw0hxText *"
+	],
+	"Brintellix_38": [],
+	"Brintellix_39": [
+		"#co-text-button_7276a2d9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_7276a2d9 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_40": [
+		"#co-text-button_e198dbbb > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_e198dbbb > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_e37e02be > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_e37e02be > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_41": [],
+	"Brintellix_42": [],
+	"Brintellix_43": [],
+	"Brintellix_62": [
+		"#co-text-button_f39a51a3 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_f39a51a3 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_9306a8eb > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_9306a8eb > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_8363e295 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8363e295 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_44": [],
+	"Brintellix_45": [],
+	"Brintellix_46": [],
+	"Brintellix_47": [],
+	"Brintellix_48": [
+		"#co-text-button_38554c2c > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_38554c2c > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_58": [
+		"#co-text-button_bcffd9bb > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_bcffd9bb > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_afc700e9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_afc700e9 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_49": [],
+	"Brintellix_50": [
+		"#kj8twh42Image",
+		"#kj8twh42Image *"
+	],
+	"Brintellix_55": [
+		"#co-text-button_5c7c707a > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_5c7c707a > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_bdb7ea8b > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_bdb7ea8b > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_96dfbfb1 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_96dfbfb1 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_4a6f85c4 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_4a6f85c4 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_018f2c25 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_018f2c25 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_675ce716 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_675ce716 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_7c29bab6 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_7c29bab6 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_56": [
+		"#co-text-button_24b52a6c > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_24b52a6c > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_52": [],
+	"Brintellix_53": [],
+	"Brintellix_54": [],
+	"Brintellix_74": [
+		"#co-text-button_d8af6fa0 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d8af6fa0 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_76": [
+		"#co-text-button_08922722 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_08922722 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_77": [],
+	"Brintellix_78": [
+		"#co-text-button_8fd19121 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_8fd19121 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_79": [
+		"#co-text-button_b3e6298a > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_b3e6298a > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_83": [],
+	"Brintellix_57Copy2": [
+		"#co-text-button_336b4c70 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_336b4c70 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_d6a23032 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_d6a23032 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_cfe5238d > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_cfe5238d > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_58Copy2": [
+		"#co-text-button_bcffd9bb > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_bcffd9bb > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_afc700e9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_afc700e9 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_57": [
+		"#co-text-button_afc700e9",
+		"#co-text-button_afc700e9 *",
+		"#co-image_474f2d6e",
+		"#co-image_474f2d6e *",
+		"#co-text_d7e42221",
+		"#co-text_d7e42221 *",
+		"#co-text_4c4ea557",
+		"#co-text_4c4ea557 *",
+		"#co-container_0e2786f1",
+		"#co-container_0e2786f1 *",
+		"#co-container_51782315",
+		"#co-container_51782315 *",
+		"#co-text-button_473ce4d5 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_473ce4d5 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_b0f87485 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_b0f87485 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_0f1e75a7 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_0f1e75a7 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_p194": [
+		"#co-text-button_84a81ad9 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_84a81ad9 > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_c7f1b9cd > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_c7f1b9cd > co-button:nth-child(1) > co-text:nth-child(1) *",
+		"#co-text-button_1c1c4748 > co-button:nth-child(1) > co-text:nth-child(1)",
+		"#co-text-button_1c1c4748 > co-button:nth-child(1) > co-text:nth-child(1) *"
+	],
+	"Brintellix_41Copy2": [],
+	"Brintellix_NewAss_3": [],
+	"Brintellix_NewAss_4": [],
+	"Brintellix_NewAss_6": []
+}

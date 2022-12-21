@@ -1,0 +1,168 @@
+#kja6iwl1Image {
+  width: 877px;
+  height: 346px;
+  -webkit-transform: matrix(1, 0, 0, 1, 103, 234.75);
+  transform: matrix(1, 0, 0, 1, 103, 234.75);
+}
+
+#kja6iwl2Image {
+  width: 39px;
+  height: 39px;
+  -webkit-transform: matrix(1, 0, 0, 1, 959, 96);
+  transform: matrix(1, 0, 0, 1, 959, 96);
+}
+
+#kja6iwl4Image {
+  width: 54px;
+  height: 768px;
+  -webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+#co-text-button_d738de0d {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 442, 29);
+  transform: matrix(1, 0, 0, 1, 442, 29);
+  z-index: 2;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-top-color: rgb(69, 94, 147);
+  border-right-color: rgb(69, 94, 147);
+  border-bottom-color: rgb(69, 94, 147);
+  border-left-color: rgb(69, 94, 147);
+  border-radius: 0px 0px 0px 0px;
+  background-color: rgba(255, 255, 255, 0.0);
+  background-image: none;
+  width: 50px;
+  height: 50px;
+}
+
+#co-text-button_d738de0d > co-button:nth-child(1) > co-text:nth-child(1) {
+  display: none;
+}
+
+#co-text-button_d738de0d > co-button:nth-child(1) > co-text:nth-child(1) * {
+  display: none;
+}
+
+#co-popup_28b07db5 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1.00000000, 0.00000000, 0, 1.00000000, 0.00, 0.00) translate3d(0,0,0);
+  transform: matrix(1.00000000, 0.00000000, 0, 1.00000000, 0.00, 0.00) translate3d(0,0,0);
+  z-index: 10000;
+  width: 1024px;
+  height: 768px;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-top-color: rgb(69, 94, 147);
+  border-right-color: rgb(69, 94, 147);
+  border-bottom-color: rgb(69, 94, 147);
+  border-left-color: rgb(69, 94, 147);
+  border-radius: 0px 0px 0px 0px;
+  background-color: transparent;
+  background-image: url("../media/images/Brintellix_73/41009044.png");
+  background-size: contain;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+#co-popup_28b07db5 > co-button:nth-child(1) > co-container:nth-child(1) {
+  -webkit-transform: matrix(1, 0, 0, 1, -121.25, 310);
+  transform: matrix(1, 0, 0, 1, -121.25, 310);
+  opacity: 0;
+}
+
+#co-text_eb9ee6df {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1.00000000, 0.00000000, 0, 1.00000000, 150.00, 360.00) translate3d(0,0,0);
+  transform: matrix(1.00000000, 0.00000000, 0, 1.00000000, 150.00, 360.00) translate3d(0,0,0);
+  z-index: 1;
+  width: 200px;
+  height: 20px;
+}
+
+#co-text_8a754188 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1.00000000, 0.00000000, 0, 1.00000000, 150.00, 390.00) translate3d(0,0,0);
+  transform: matrix(1.00000000, 0.00000000, 0, 1.00000000, 150.00, 390.00) translate3d(0,0,0);
+  z-index: 2;
+  width: 460px;
+  height: 20px;
+}
+
+#co-popup_28b07db5 > co-button:nth-child(3) > co-container:nth-child(1) {
+  -webkit-transform: matrix(1, 0, 0, 1, -121.25, 310);
+  transform: matrix(1, 0, 0, 1, -121.25, 310);
+  opacity: 0;
+}
+
+#kja6iwliText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 40);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 40);
+}
+
+#kja6iwlbText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 35);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 35);
+}
+
+#kja6iwlaText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 31.25);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 31.25);
+}
+
+#kja6iwl7Text {
+  width: 1591px;
+  height: 261px;
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 0);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 0);
+}
+
+#kja6iwljText {
+  width: 208px;
+  height: 112px;
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, -6.25, 32.5);
+  transform: matrix(0.5, 0, 0, 0.5, -6.25, 32.5);
+}
+
+#kja6iwlhText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 37.5);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 37.5);
+}
+
+#kja6iwlgText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 37.5);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 37.5);
+}
+
+#kja6iwlfText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 40);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 40);
+}
+
+#kja6iwleText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 37.5);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 37.5);
+}
+
+#kja6iwldText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 35);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 35);
+}
+
+#kja6iwlcText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 33.75);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 33.75);
+}

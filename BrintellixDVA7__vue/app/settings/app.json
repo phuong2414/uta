@@ -1,0 +1,120 @@
+{
+	"name": "BrintellixDVA7_SG",
+	"id": "6253015110ee2200073d0287",
+	"lang": "en",
+	"localizations": [
+		"en"
+	],
+	"viewportScale": "1.0",
+	"media": "",
+	"clm": "oce",
+	"isCrossChapterSwipe": true,
+	"translations": "i18n/",
+	"controllers": "controllers/",
+	"components": "../node_modules/",
+	"templates": "templates/",
+	"slides": "app/",
+	"models": "data/models/",
+	"targetDevice": {
+		"device": "iPad",
+		"dpr": "1",
+		"resolution": "1024x768"
+	},
+	"orientation": "landscape",
+	"thumbnails": "media/images/common/thumbs/",
+	"modules": [
+		"menu",
+		"indicators"
+	],
+	"autoprefixer": {
+		"browsersList": [
+			"iOS >= 9",
+			"Android >= 4"
+		]
+	},
+	"application": {
+		"showStatusBar": false
+	},
+	"theme": {
+		"path": "styles/themes/default"
+	},
+	"template": {
+		"version": "0.0.1",
+		"id": "5f1836a605aa9b0007c00d35"
+	},
+	"clms": {
+		"irep": {
+			"assetFileNameTemplate": "{settings.id}-blankPresentation_{structure.slide.id}",
+			"customSwipe": true,
+			"swipeSensitivity": 50,
+			"vault": {
+				"presentation": {
+					"name__v": "{settings.name}",
+					"title__v": "{settings.name}"
+				},
+				"keyMessage": {
+					"name__v": "{structure.slide.name}",
+					"title__v": "{structure.slide.name}"
+				}
+			},
+			"crm": {
+				"presentation": {},
+				"keyMessage": {
+					"Name": "{structure.slide.name}",
+					"Product_vod__c": "",
+					"Description_vod__c": "{structure.slide.name}"
+				}
+			},
+			"auth": {
+				"USER": "",
+				"PASSWORD": ""
+			},
+			"presentation": {},
+			"keyMessage": {
+				"Name": "{structure.slide.name}",
+				"Product_vod__c": "",
+				"Description_vod__c": "{structure.slide.name}"
+			}
+		},
+		"iqvia": {
+			"assetFileNameTemplate": "{settings.id}-blankPresentation_{structure.slide.id}"
+		},
+		"oce": {}
+	},
+	"country": "gbl",
+	"_api": {},
+	"tag": "54c085c06f233b33731ae208aabb4a99e502d2e0d4b2903022ab063b9c8f2e61d30ac5c1c38ec71bd78c7377b356da86f855fde20a73a4609fe9f2f134",
+	"languages": [
+		"en",
+		"ru",
+		"ua",
+		"de",
+		"fr",
+		"zh",
+		"es",
+		"ar",
+		"hi",
+		"pt",
+		"bn",
+		"ja",
+		"ko",
+		"ge",
+		"hy",
+		"az",
+		"uz",
+		"pl",
+		"lv",
+		"nl",
+		"si",
+		"hr",
+		"bg"
+	],
+	"version": "0.10.2",
+	"touch": {
+		"preserveDefaultMovementBehavior": false
+	},
+	"parent": {
+		"id": "605bfa83fcd5db000786ca66",
+		"version": "0.0.6"
+	}
+}

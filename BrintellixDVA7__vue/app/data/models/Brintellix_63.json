@@ -1,0 +1,66 @@
+{
+	"kja6imjyImage": {
+		"src": "media/images/Brintellix_63/41019a29e0495e27.png?1610338533278",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6imjzImage": {
+		"src": "media/images/Brintellix_63/img-kja6imbl.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6imk0Image": {
+		"src": "media/images/Brintellix_63/img-kja6imbm.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6imk1Image": {
+		"src": "media/images/Brintellix_63/img-kja6im9w.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6imk2Image": {
+		"src": "media/images/Brintellix_63/img-kja6im9s.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6imk3Image": {
+		"src": "media/images/Brintellix_63/img-kja6imbk.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text-button_c9f0fe17": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_63edc16686"
+		}
+	},
+	"nav_87736e9d": {
+		"event": "tap",
+		"slide": "Brintellix_64",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"co-text_0928c41b": {
+		"html": "t.Brintellix_63b064d01e"
+	},
+	"open_ba7d9afd": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_63/49288712778c.pdf?1615877536036",
+		"page": 1
+	},
+	"co-text_8c01f61f": {
+		"html": "t.Brintellix_6360f610c3"
+	},
+	"co-text_f41db491": {
+		"html": "t.Brintellix_631f8dcf38"
+	}
+}

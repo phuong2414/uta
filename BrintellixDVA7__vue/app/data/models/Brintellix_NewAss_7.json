@@ -1,0 +1,186 @@
+{
+	"l1liv0xtImage": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0gi.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0xuImage": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0f4.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0xvImage": {
+		"src": "media/images/Brintellix_NewAss_7/674381ea0a80686e.png?1649307161028",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0xwImage": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0iz.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0xxImage": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0iu.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0xyImage": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0lq.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0xzImage": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0j1.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0y0Image": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0n7.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0y1Image": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0lo.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0y2Image": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0n4.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0y3Image": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0j0.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0y4Image": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0lp.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0y5Image": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0dw.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0y6Image": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0rk.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0y7Image": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0ln.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0y8Image": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0ri.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0y9Image": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0n3.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0yaImage": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0ez.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0ybImage": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0rj.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0ycImage": {
+		"src": "media/images/Brintellix_NewAss_7/faf5cc2542cc1b9b.png?1649307443577",
+		"position": "center center",
+		"size": "contain"
+	},
+	"l1liv0ydImage": {
+		"src": "media/images/Brintellix_NewAss_7/img-l1liv0rh.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text_800ae87b": {
+		"html": "t.Brintellix_NewAss_73b16b5d3"
+	},
+	"co-text_3f880544": {
+		"html": "t.Brintellix_NewAss_773ba0f51"
+	},
+	"co-text_c9dae71e": {
+		"html": "t.Brintellix_NewAss_70b4d7623"
+	},
+	"co-text_bbd3a196": {
+		"html": "t.Brintellix_NewAss_72a8a8b9a"
+	},
+	"co-popup_d754cec0": {
+		"id": "co-popup_d754cec0",
+		"title": "pu_ref",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": false,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_13b82080": {
+		"html": "t.Brintellix_NewAss_7c6c3036c"
+	},
+	"co-text_27b69c90": {
+		"html": "t.Brintellix_NewAss_776fd33fe"
+	},
+	"open_39fcdeb1": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_NewAss_7/ef2c2de7007b.pdf?1649328510746",
+		"page": 1
+	},
+	"co-text-button_63792e61": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_NewAss_7e76438a3"
+		}
+	},
+	"open-popup_3913eb4a": {
+		"id": "co-popup_d754cec0",
+		"on": "tap",
+		"onglobal": ""
+	}
+}

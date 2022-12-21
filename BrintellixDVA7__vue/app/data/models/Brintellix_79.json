@@ -1,0 +1,234 @@
+{
+	"kja6j1xfImage": {
+		"src": "media/images/Brintellix_79/69ebe1692b0dac52.png?1610676692669",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6j1xgImage": {
+		"src": "media/images/Brintellix_79/3130cf82584fd08e.png?1610676290787",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text-button_b3e6298a": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_799aa6ea7c"
+		}
+	},
+	"co-popup_67c7bc7d": {
+		"id": "co-popup_67c7bc7d",
+		"title": "Popup_ref",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": true,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_c777d8a1": {
+		"html": "t.Brintellix_7998cf0886"
+	},
+	"co-text_29f68759": {
+		"html": "t.Brintellix_79584e021d"
+	},
+	"open_52e80f7e": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_79/f0a63bb2d62c.pdf?1609805931984",
+		"page": 1
+	},
+	"open-popup_d136b67f": {
+		"id": "co-popup_67c7bc7d",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"co-table_50c4c436": {
+		"colWidth": [
+			{
+				"value": "50"
+			},
+			{
+				"value": "50"
+			},
+			{
+				"value": "50"
+			}
+		],
+		"rowHeight": [
+			{
+				"value": ""
+			},
+			{
+				"value": ""
+			},
+			{
+				"value": ""
+			}
+		],
+		"rows": [
+			{
+				"border": {
+					"width": "1",
+					"color": "#000"
+				},
+				"cells": [
+					{
+						"colspan": 1,
+						"rowspan": 1,
+						"background": {
+							"color": "",
+							"image": "",
+							"size": "100% 100%",
+							"position": "0 0"
+						},
+						"border": {
+							"width": "1",
+							"color": "#000"
+						},
+						"text": {
+							"html": "1"
+						}
+					},
+					{
+						"colspan": 1,
+						"rowspan": 1,
+						"background": {
+							"color": "",
+							"image": "",
+							"size": "100% 100%",
+							"position": "0 0"
+						},
+						"border": {
+							"width": "1",
+							"color": "#000"
+						},
+						"text": {
+							"html": "2"
+						}
+					},
+					{
+						"colspan": 1,
+						"rowspan": 1,
+						"background": {
+							"color": "",
+							"image": "",
+							"size": "100% 100%",
+							"position": "0 0"
+						},
+						"border": {
+							"width": "1",
+							"color": "#000"
+						},
+						"text": {
+							"html": "3"
+						}
+					}
+				]
+			},
+			{
+				"border": {
+					"width": "1",
+					"color": "#000"
+				},
+				"cells": [
+					{
+						"colspan": 1,
+						"rowspan": 1,
+						"background": {
+							"color": "",
+							"image": "",
+							"size": "100% 100%",
+							"position": "0 0"
+						},
+						"border": {
+							"width": "1",
+							"color": "#000"
+						},
+						"text": {
+							"html": "4"
+						}
+					},
+					{
+						"colspan": 1,
+						"rowspan": 1,
+						"background": {
+							"color": "",
+							"image": "",
+							"size": "100% 100%",
+							"position": "0 0"
+						},
+						"border": {
+							"width": "1",
+							"color": "#000"
+						},
+						"text": {
+							"html": "5"
+						}
+					},
+					{
+						"colspan": 1,
+						"rowspan": 1,
+						"background": {
+							"color": "",
+							"image": "",
+							"size": "100% 100%",
+							"position": "0 0"
+						},
+						"border": {
+							"width": "1",
+							"color": "#000"
+						},
+						"text": {
+							"html": "6"
+						}
+					}
+				]
+			}
+		]
+	},
+	"co-text_70c3aaa2": {
+		"html": "t.Brintellix_79417db306"
+	},
+	"nav_1fa57b54": {
+		"event": "tap",
+		"navigation": "Slide",
+		"slide": "Brintellix_25",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	}
+}

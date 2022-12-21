@@ -1,0 +1,30 @@
+{
+	"name": "brintellixdva-7-_sg",
+	"version": "0.10.2",
+	"description": "",
+	"author": "",
+	"license": "MIT",
+	"templateId": "blank-presentation",
+	"browser": {
+		"spa-ctl": "./spa-ctl"
+	},
+	"dependencies": {
+		"co-collection": "4.3.6",
+		"co-container": "3.0.2",
+		"co-container-extend": "1.2.4",
+		"co-extended-card": "2.3.11",
+		"co-image": "2.3.9",
+		"co-iscroll": "3.3.10",
+		"co-output-slider": "2.2.9",
+		"co-popup": "2.9.7",
+		"co-table": "7.4.11",
+		"co-tabs": "2.3.14",
+		"co-text": "2.4.8",
+		"co-text-button": "2.4.0",
+		"co-textarea": "2.3.10",
+		"co-video": "3.7.1",
+		"core": "3.7.0",
+		"jquery": "3.5.1",
+		"spa": "3.6.5"
+	}
+}

@@ -1,0 +1,29 @@
+<ul class="vertical-submenu">
+	<% for (var i = data.length - 1; i >= 0; i--) { %>
+		<% var item = data[i]; %>
+		<% if (!item.hideonmenu) { %>
+			<li class="submenu-item <%= (item.id == currentId ? 'selected' : '') %>" menu-id="<%= item.id %>" style="display: block; float: none;">
+				<a>
+					<span class="menu-text"><%= item.title %></span>
+					<% if (conf.submenu.hasImage) { %>
+						<img src="<%= conf.submenu.thumbPath %>/<%= item.name %>.jpg">
+					<% } %>
+				</a>
+			</li>
+		<% } %>
+	<% } %>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

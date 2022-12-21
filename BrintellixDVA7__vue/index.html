@@ -1,0 +1,87 @@
+<!doctype html>
+<html>
+<head> 
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="format-detection" content="telephone=no">
+	<title></title>
+	<link rel="stylesheet" href="./spa/css/general.css">
+	<link rel="stylesheet" href="./spa/css/popup.css">
+	<link rel="stylesheet" href="./app/styles/spa/custom.css">
+</head>
+<body>
+	<div id="viewport"></div>
+	<div class="loader-wrapper">
+		<div id="loader"></div>
+	</div>
+	<script src="./spa/spa.js"></script>
+
+    <script>
+		addScaling();
+
+		function addScaling() {
+			var mainViewportIframes = getMainViewportIframes();
+			addLoadListener(mainViewportIframes);
+
+			document.addEventListener('open-collect-popup', function(event) {
+				var collectPopupIframes = getCollectPopupIframes();
+				scaleSlides(collectPopupIframes);
+				addLoadListener(collectPopupIframes);
+			});
+
+			window.addEventListener('resize', function() {
+				scaleSlides(getMainViewportIframes());
+				scaleSlides(getCollectPopupIframes());
+			});
+		}
+
+		function scaleSlides(slideIframes) {
+			slideIframes.forEach(function(slideIframe) {
+				scaleSlide(slideIframe);
+			});
+		}
+
+		function getMainViewportIframes() {
+			return document.querySelectorAll('#viewport > .slide > iframe');
+		}
+
+		function getCollectPopupIframes() {
+			return document.querySelectorAll('body > .popup > .slide > iframe');
+		}
+
+		function addLoadListener(slideIframes) {
+			slideIframes.forEach(function(slideIframe) {
+				slideIframe.addEventListener('load', function() {
+					scaleSlide(slideIframe);
+				});
+			});
+		}
+
+		function scaleSlide(slideIframe) {
+			var appElement = slideIframe.contentDocument.getElementsByClassName('slide')[0];
+			if (!appElement) {
+				return;
+			}
+			var APP_DIMENSIONS = {
+				width: appElement.offsetWidth,
+				height: appElement.offsetHeight,
+			};
+			var WINDOW_DIMENSIONS = {
+				width: window.innerWidth,
+				height: window.innerHeight,
+			};
+			var scaleFactor = Math.min(
+				WINDOW_DIMENSIONS.width / APP_DIMENSIONS.width,
+				WINDOW_DIMENSIONS.height / APP_DIMENSIONS.height);
+			var marginTop = Math.floor((WINDOW_DIMENSIONS.height - APP_DIMENSIONS.height * scaleFactor) / 2) + 'px';
+			var marginLeft = Math.floor((WINDOW_DIMENSIONS.width - APP_DIMENSIONS.width * scaleFactor) / 2) + 'px';
+			appElement.style.setProperty('transform-origin', 'left top');
+			appElement.style.setProperty('transform', 'scale(' + scaleFactor + ')');
+			appElement.style.setProperty('margin-top', marginTop);
+			appElement.style.setProperty('margin-left', marginLeft);
+		}
+	</script>
+</body>
+</html>

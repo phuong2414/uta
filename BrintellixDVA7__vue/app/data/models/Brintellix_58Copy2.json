@@ -1,0 +1,170 @@
+{
+	"kja6ihloImage": {
+		"src": "media/images/Brintellix_58Copy2/img-kja6ihcs.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ihlpImage": {
+		"src": "media/images/Brintellix_58Copy2/ea8ac1d759f37854.png?1610337266772",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ihlqImage": {
+		"src": "media/images/Brintellix_58Copy2/img-kja6ihbe.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ihlrImage": {
+		"src": "media/images/Brintellix_58Copy2/img-kja6ihbb.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ihlsImage": {
+		"src": "media/images/Brintellix_58Copy2/img-kja6ihbc.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ihltImage": {
+		"src": "media/images/Brintellix_58Copy2/img-kja6ih9k.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-popup_a3bbffa3": {
+		"id": "co-popup_a3bbffa3",
+		"title": "Popup_ref",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": true,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_cf1d69bd": {
+		"html": "t.Brintellix_5892f3f241"
+	},
+	"co-text_bdfd1842": {
+		"html": "t.Brintellix_58e85a46a9"
+	},
+	"co-text_e4b6f7f9": {
+		"html": "t.Brintellix_588c0dc500"
+	},
+	"co-text_40182d8b": {
+		"html": "t.Brintellix_5808444736"
+	},
+	"co-text_5b8ae859": {
+		"html": "t.Brintellix_58f4e18f8b"
+	},
+	"co-text-button_bcffd9bb": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_58094211a9"
+		}
+	},
+	"open-popup_0f813a17": {
+		"id": "co-popup_a3bbffa3",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"co-text-button_afc700e9": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_583ce5e82b"
+		}
+	},
+	"nav_7ce46d38": {
+		"event": "tap",
+		"slide": "Brintellix_57",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"co-image_474f2d6e": {
+		"src": "media/images/Brintellix_58Copy2/dfde8e93f3c7697d.png?1611115815405",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text_d7e42221": {
+		"html": "t.Brintellix_5816701773"
+	},
+	"co-text_4c4ea557": {
+		"html": "t.Brintellix_58df48850c"
+	},
+	"co-container_0e2786f1": {},
+	"co-image_b2182800": {
+		"src": "media/images/Brintellix_58Copy2/b83e683982deaa1f.png?1611117915239",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-container_51782315": {},
+	"co-image_c30f1e22": {
+		"src": "media/images/Brintellix_58Copy2/e77b88f92cbe3de3.png?1611117976098",
+		"position": "center center",
+		"size": "contain"
+	},
+	"open_6c8e8277": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_58Copy2/741f5a786b86.pdf?1611974892248",
+		"page": 1
+	},
+	"open_cb702412": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_58Copy2/d4dd58750e41.pdf?1611974953341",
+		"page": 1
+	},
+	"open_3da64950": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_58Copy2/3fe4f58651ce.pdf?1612024153297",
+		"page": 1
+	},
+	"open_bf267ba5": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_58Copy2/e2aa0e1723a8.pdf?1611975058087",
+		"page": 1
+	}
+}

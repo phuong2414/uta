@@ -1,0 +1,80 @@
+{
+	"kja6iomzImage": {
+		"src": "media/images/Brintellix_65/23a09bc63c1ff701.png?1610338715947",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ion0Image": {
+		"src": "media/images/Brintellix_65/3b7c048d6bb161c7.png?1610338733115",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ion1Image": {
+		"src": "media/images/Brintellix_65/1e8779f05ad77286.png?1610338749814",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ion2Image": {
+		"src": "media/images/Brintellix_65/66caa907564455b9.png?1610338767306",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ion4Image": {
+		"src": "media/images/Brintellix_65/011cd9c47a3ede61.png?1610339088292",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ion6Image": {
+		"src": "media/images/Brintellix_65/4a27d81846cfa2f0.png?1610339046891",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ion8Image": {
+		"src": "media/images/Brintellix_65/6f9fa7d4efca0861.png?1610338936049",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ionaImage": {
+		"src": "media/images/Brintellix_65/a6ee399186d9ccd4.png?1610339025005",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ionbImage": {
+		"src": "media/images/Brintellix_65/img-kja6io7h.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6ioncImage": {
+		"src": "media/images/Brintellix_65/img-kja6io5s.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"nav_2124c875": {
+		"event": "tap",
+		"slide": "Brintellix_66",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	},
+	"nav_a8f379ba": {
+		"event": "tap",
+		"slide": "Brintellix_67",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	},
+	"nav_55429fd1": {
+		"event": "tap",
+		"slide": "Brintellix_68",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	},
+	"nav_d8418e1a": {
+		"event": "tap",
+		"slide": "Brintellix_69",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	}
+}

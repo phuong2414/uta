@@ -1,0 +1,284 @@
+#kj8tw614Image {
+  width: 689px;
+  height: 286px;
+  -webkit-transform: matrix(1, 0, 0, 1, 131, 181);
+  transform: matrix(1, 0, 0, 1, 131, 181);
+}
+
+#kj8tw615Image {
+  width: 64px;
+  height: 38px;
+  -webkit-transform: matrix(1, 0, 0, 1, 952, 135);
+  transform: matrix(1, 0, 0, 1, 952, 135);
+}
+
+#kj8tw616Image {
+  width: 6px;
+  height: 6px;
+  -webkit-transform: matrix(1, 0, 0, 1, 97, 514);
+  transform: matrix(1, 0, 0, 1, 97, 514);
+}
+
+#kj8tw617Image {
+  width: 6px;
+  height: 6px;
+  -webkit-transform: matrix(1, 0, 0, 1, 97, 585);
+  transform: matrix(1, 0, 0, 1, 97, 585);
+}
+
+#kj8tw618Image {
+  width: 164px;
+  height: 41px;
+  -webkit-transform: matrix(1, 0, 0, 1, 215, 727);
+  transform: matrix(1, 0, 0, 1, 215, 727);
+}
+
+#kj8tw619Image {
+  width: 163px;
+  height: 40px;
+  -webkit-transform: matrix(1, 0, 0, 1, 54, 728);
+  transform: matrix(1, 0, 0, 1, 54, 728);
+}
+
+#kj8tw61aImage {
+  width: 164px;
+  height: 41px;
+  -webkit-transform: matrix(1, 0, 0, 1, 378.6, 727);
+  transform: matrix(1, 0, 0, 1, 378.6, 727);
+  background-color: rgba(228, 239, 241, 1.0);
+  background-image: none;
+}
+
+#kj8tw61bImage {
+  width: 115px;
+  height: 25px;
+  -webkit-transform: matrix(1, 0, 0, 1, 54, 704);
+  transform: matrix(1, 0, 0, 1, 54, 704);
+}
+
+#kj8tw61cImage {
+  width: 113px;
+  height: 23px;
+  -webkit-transform: matrix(1, 0, 0, 1, 280, 705);
+  transform: matrix(1, 0, 0, 1, 280, 705);
+}
+
+#kj8tw61dImage {
+  width: 115px;
+  height: 25px;
+  -webkit-transform: matrix(1, 0, 0, 1, 279, 704);
+  transform: matrix(1, 0, 0, 1, 279, 704);
+}
+
+#kj8tw61eImage {
+  width: 115px;
+  height: 25px;
+  -webkit-transform: matrix(1, 0, 0, 1, 392, 704);
+  transform: matrix(1, 0, 0, 1, 392, 704);
+}
+
+#kj8tw61fImage {
+  width: 114px;
+  height: 25px;
+  -webkit-transform: matrix(1, 0, 0, 1, 505, 704);
+  transform: matrix(1, 0, 0, 1, 505, 704);
+}
+
+#kj8tw61gImage {
+  width: 114px;
+  height: 25px;
+  -webkit-transform: matrix(1, 0, 0, 1, 167, 704);
+  transform: matrix(1, 0, 0, 1, 167, 704);
+}
+
+#co-text_b600567a {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 720, 48.4);
+  transform: matrix(1, 0, 0, 1, 720, 48.4);
+  z-index: 1;
+  width: 57px;
+  height: 42px;
+  opacity: 0;
+}
+
+#co-popup_b9273a64 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1.00000000, 0.00000000, 0, 1.00000000, 0.00, 0.00) translate3d(0,0,0);
+  transform: matrix(1.00000000, 0.00000000, 0, 1.00000000, 0.00, 0.00) translate3d(0,0,0);
+  z-index: 10000;
+  width: 1024px;
+  height: 768px;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: none;
+  border-top-color: rgb(69, 94, 147);
+  border-right-color: rgb(69, 94, 147);
+  border-bottom-color: rgb(69, 94, 147);
+  border-left-color: rgb(69, 94, 147);
+  border-radius: 0px 0px 0px 0px;
+  background-color: transparent;
+  background-image: url("../media/images/Brintellix_41/8e9e6e4b.png");
+  background-size: contain;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+#co-text_cd0433df {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 170, 347.6);
+  transform: matrix(1, 0, 0, 1, 170, 347.6);
+  z-index: 1;
+  width: 154px;
+  height: 27px;
+}
+
+#co-text_8541f8bb {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 170, 382);
+  transform: matrix(1, 0, 0, 1, 170, 382);
+  z-index: 2;
+  width: 446px;
+  height: 31px;
+}
+
+#co-popup_b9273a64 > co-button:nth-child(1) > co-container:nth-child(1) {
+  -webkit-transform: matrix(1, 0, 0, 1, -121.6, 310.4);
+  transform: matrix(1, 0, 0, 1, -121.6, 310.4);
+  opacity: 0;
+}
+
+#co-popup_b9273a64 > co-button:nth-child(3) > co-container:nth-child(1) {
+  opacity: 0;
+  -webkit-transform: matrix(1, 0, 0, 1, -122, 309);
+  transform: matrix(1, 0, 0, 1, -122, 309);
+}
+
+#kj8tw61nText {
+  -webkit-transform: matrix(0, -0.5, 0.5, 0, -13.6, 0);
+  transform: matrix(0, -0.5, 0.5, 0, -13.6, 0);
+}
+
+#kj8tw61oText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 3.2);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 3.2);
+}
+
+#kj8tw61uText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 4.8);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 4.8);
+}
+
+#kj8tw61vText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 1.6);
+  transform: matrix(0.5, 0, 0, 0.5, 0, 1.6);
+}
+
+#co-container_4835c885 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 55.2, 703);
+  transform: matrix(1, 0, 0, 1, 55.2, 703);
+  z-index: 2;
+  width: 567px;
+  height: 65px;
+}
+
+#co-text_7efb3732 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, -1.2, -18.2);
+  transform: matrix(1, 0, 0, 1, -1.2, -18.2);
+  z-index: 2;
+  width: 117px;
+  height: 45px;
+  opacity: 0;
+}
+
+#co-text_b2a1ded3 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 110, -18);
+  transform: matrix(1, 0, 0, 1, 110, -18);
+  z-index: 3;
+  width: 116px;
+  height: 45px;
+  opacity: 0;
+}
+
+#co-text_511a87cd {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 334.8, -17.2);
+  transform: matrix(1, 0, 0, 1, 334.8, -17.2);
+  z-index: 4;
+  width: 113px;
+  height: 45px;
+  opacity: 0;
+}
+
+#co-text_31cd3a58 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 447.6, -17.4);
+  transform: matrix(1, 0, 0, 1, 447.6, -17.4);
+  z-index: 5;
+  width: 116px;
+  height: 45px;
+  opacity: 0;
+}
+
+#co-text_ec63f2b2 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 158.8, 26);
+  transform: matrix(1, 0, 0, 1, 158.8, 26);
+  z-index: 6;
+  width: 160px;
+  height: 40px;
+  opacity: 0;
+}
+
+#kj8tw61jText {
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, -0.8, 0);
+  transform: matrix(0.5, 0, 0, 0.5, -0.8, 0);
+  word-wrap: break-word;
+  -webkit-line-break: after-white-space;
+}
+
+#co-text_4a870345 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 323.2, 25);
+  transform: matrix(1, 0, 0, 1, 323.2, 25);
+  z-index: 7;
+  width: 162px;
+  height: 40px;
+  opacity: 0;
+}
+
+#co-text_9715fd75 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 434.8, 742.8);
+  transform: matrix(1, 0, 0, 1, 434.8, 742.8);
+  z-index: 1;
+  width: 64px;
+  height: 19px;
+}

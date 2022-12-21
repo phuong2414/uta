@@ -1,0 +1,110 @@
+#kja6it4dImage {
+  width: 829px;
+  height: 49px;
+  -webkit-transform: matrix(1, 0, 0, 1, 107, 612);
+  transform: matrix(1, 0, 0, 1, 107, 612);
+}
+
+#kja6it4eImage {
+  width: 852px;
+  height: 169px;
+  -webkit-transform: matrix(1, 0, 0, 1, 107, 108);
+  transform: matrix(1, 0, 0, 1, 107, 108);
+}
+
+#kja6it4hImage {
+  width: 200px;
+  height: 200px;
+  -webkit-transform: matrix(1, 0, 0, 1, 119, 358);
+  transform: matrix(1, 0, 0, 1, 119, 358);
+}
+
+#kja6it4iImage {
+  width: 200px;
+  height: 201px;
+  -webkit-transform: matrix(1, 0, 0, 1, 542, 358);
+  transform: matrix(1, 0, 0, 1, 542, 358);
+}
+
+#kja6it4jImage {
+  width: 200px;
+  height: 200px;
+  -webkit-transform: matrix(1, 0, 0, 1, 330, 358);
+  transform: matrix(1, 0, 0, 1, 330, 358);
+}
+
+#kja6it4kImage {
+  width: 200px;
+  height: 201px;
+  -webkit-transform: matrix(1, 0, 0, 1, 753, 358);
+  transform: matrix(1, 0, 0, 1, 753, 358);
+}
+
+#kja6it4lImage {
+  width: 1px;
+  height: 126px;
+  -webkit-transform: matrix(1, 0, 0, 1, 537, 130);
+  transform: matrix(1, 0, 0, 1, 537, 130);
+}
+
+#kja6it4nImage {
+  width: 75px;
+  height: 49px;
+  -webkit-transform: matrix(1, 0, 0, 1, 895, 612.25);
+  transform: matrix(1, 0, 0, 1, 895, 612.25);
+}
+
+#kja6it4oImage {
+  width: 191px;
+  height: 40px;
+  -webkit-transform: matrix(1, 0, 0, 1, 54, 728);
+  transform: matrix(1, 0, 0, 1, 54, 728);
+}
+
+#kja6it4pImage {
+  width: 193px;
+  height: 41px;
+  -webkit-transform: matrix(1, 0, 0, 1, 53, 727);
+  transform: matrix(1, 0, 0, 1, 53, 727);
+}
+
+#kja6it4tText {
+  word-wrap: break-word;
+  -webkit-line-break: after-white-space;
+}
+
+#kja6it4vText {
+  word-wrap: break-word;
+  -webkit-line-break: after-white-space;
+}
+
+#kja6it4zText {
+  word-wrap: break-word;
+  -webkit-line-break: after-white-space;
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 48.8, -0.8);
+  transform: matrix(0.5, 0, 0, 0.5, 48.8, -0.8);
+}
+
+#kja6it5iText,
+#kja6it4dImage {
+  display: none;
+}
+
+#kja6it5iText {
+  width: 1605px;
+  height: 103px;
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, -76, -15.89);
+  transform: matrix(0.5, 0, 0, 0.5, -76, -15.89);
+}
+
+#co-text-button_eca44fdf {
+  top: 0;
+  left: 0;
+  position: absolute;
+  -webkit-transform: matrix(1, 0, 0, 1, 55, 726);
+  transform: matrix(1, 0, 0, 1, 55, 726);
+  z-index: 2;
+  width: 187px;
+  height: 38px;
+  opacity: 0;
+}

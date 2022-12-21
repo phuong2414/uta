@@ -1,0 +1,47 @@
+{
+	"kja6indpImage": {
+		"src": "media/images/Brintellix_64/img-kja6in3w.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6indqImage": {
+		"src": "media/images/Brintellix_64/img-kja6in3v.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6indrImage": {
+		"src": "media/images/Brintellix_64/img-kja6in3u.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6indsImage": {
+		"src": "media/images/Brintellix_64/img-kja6in7y.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6indtImage": {
+		"src": "media/images/Brintellix_64/img-kja6in3y.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text-button_39342406": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_6472ff4df5"
+		}
+	},
+	"nav_1b930dc3": {
+		"event": "tap",
+		"slide": "Brintellix_63",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	},
+	"nav_19eb864c": {},
+	"nav_ba1f2266": {},
+	"nav_99ee3c59": {}
+}

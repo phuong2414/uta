@@ -1,0 +1,257 @@
+{
+	"kihkcveuImage": {
+		"src": "media/images/Brintellix_17/bc32239d614fe892.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvevImage": {
+		"src": "media/images/Brintellix_17/img-kihkcuz6.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvewImage": {
+		"src": "media/images/Brintellix_17/img-kihkcuys.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvexImage": {
+		"src": "media/images/Brintellix_17/img-kihkcuyl.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcveyImage": {
+		"src": "media/images/Brintellix_17/img-kihkcuwk.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvezImage": {
+		"src": "media/images/Brintellix_17/img-kihkcuyn.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvf0Image": {
+		"src": "media/images/Brintellix_17/img-kihkcuym.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvf1Image": {
+		"src": "media/images/Brintellix_17/img-kihkcuvz.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvf2Image": {
+		"src": "media/images/Brintellix_17/img-kihkcuwy.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvf3Image": {
+		"src": "media/images/Brintellix_17/img-kihkcuwo.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvf4Image": {
+		"src": "media/images/Brintellix_17/img-kihkcuxd.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvf5Image": {
+		"src": "media/images/Brintellix_17/img-kihkcuwz.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvf6Image": {
+		"src": "media/images/Brintellix_17/img-kihkcuwt.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvf7Image": {
+		"src": "media/images/Brintellix_17/img-kihkcuwb.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvf8Image": {
+		"src": "media/images/Brintellix_17/img-kihkcuwn.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkcvf9Image": {
+		"src": "media/images/Brintellix_17/img-kihkcuwc.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text-button_8fb68096": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_17ac4a33d8"
+		}
+	},
+	"co-popup_33e5ed13": {
+		"id": "co-popup_33e5ed13",
+		"title": "Popup_ref1",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": true,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_29a7ff6b": {
+		"html": "t.Brintellix_17752ee6b8"
+	},
+	"co-text_0d86aad9": {
+		"html": "t.Brintellix_17c8011b01"
+	},
+	"co-text_0fa786bb": {
+		"html": "t.Brintellix_17af7eaeb7"
+	},
+	"open-popup_da8ad74a": {
+		"id": "co-popup_33e5ed13",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"co-image_2cdc5cf8": {
+		"src": "media/images/Brintellix_17/edcd1154726b5e54.png?1608278340125",
+		"position": "center center",
+		"size": "contain"
+	},
+	"open_cd829d44": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"page": 1,
+		"src": "media/pdfs/Brintellix_17/Shahid2012_Chapter_MotivationAndEnergyInventory_MEI.pdf?16119824929650"
+	},
+	"co-container_918b6247": {},
+	"co-text_f0ceff3d": {
+		"html": "t.Brintellix_1783184d9f"
+	},
+	"co-text_dd371b09": {
+		"html": "t.Brintellix_176724eb97"
+	},
+	"co-text_4bfdb23b": {
+		"html": "t.Brintellix_17c9f3a9f1"
+	},
+	"co-text_340918c1": {
+		"html": "t.Brintellix_17d639a713"
+	},
+	"co-text_c119a347": {
+		"html": "t.Brintellix_1788dba77a"
+	},
+	"co-text_9dc9afa3": {
+		"html": "t.Brintellix_17ed60db10"
+	},
+	"co-text_8b39b1c2": {
+		"html": "t.Brintellix_1728857ba5"
+	},
+	"co-text_cfe76c6d": {
+		"html": "t.Brintellix_174f0b8089"
+	},
+	"co-text_59050b6b": {
+		"html": "t.Brintellix_17bda503f2"
+	},
+	"nav_d912bd76": {
+		"event": "tap",
+		"slide": "Brintellix_10",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_72c00c80": {
+		"event": "tap",
+		"slide": "Brintellix_11",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_be68a39b": {
+		"event": "tap",
+		"slide": "Brintellix_12",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_c5d141b1": {
+		"event": "tap",
+		"slide": "Brintellix_13",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_727d61b7": {
+		"event": "tap",
+		"slide": "Brintellix_14",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_fd109c4c": {
+		"event": "tap",
+		"slide": "Brintellix_15",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_141a5ff4": {
+		"event": "tap",
+		"slide": "Brintellix_16",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_ee560714": {
+		"event": "tap",
+		"slide": "Brintellix_18",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_f1e3b99b": {
+		"event": "tap",
+		"slide": "Brintellix_19",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	}
+}

@@ -1,0 +1,97 @@
+{
+	"kja6iuugImage": {
+		"src": "media/images/Brintellix_71/76ace7bd7e644cd5.png?1610584370778",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6iuuhImage": {
+		"src": "media/images/Brintellix_71/img-kja6iuf5.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6iuuiImage": {
+		"src": "media/images/Brintellix_71/33cc6a8a2f32f73a.png?1610586221766",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kja6iuukImage": {
+		"src": "media/images/Brintellix_71/img-kja6iuha.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text-button_f9753d50": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_716570a3e7"
+		}
+	},
+	"co-popup_ea666cd2": {
+		"id": "co-popup_ea666cd2",
+		"title": "Popup_ref",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": false,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_9b828743": {
+		"html": "t.Brintellix_71651629ac"
+	},
+	"co-text_75dcdb04": {
+		"html": "t.Brintellix_71dc2c4d57"
+	},
+	"open_9e1d5c0e": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_71/c7a3a1e178e1.pdf?1610584813883",
+		"page": 1
+	},
+	"open-popup_490564b0": {
+		"id": "co-popup_ea666cd2",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"nav_429cf529": {
+		"event": "tap",
+		"navigation": "Slide",
+		"slide": "Brintellix_48",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	}
+}

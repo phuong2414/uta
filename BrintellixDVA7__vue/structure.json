@@ -1,0 +1,592 @@
+{
+	"slides": {
+		"Brintellix_1": {
+			"name": "HOMEPAGE",
+			"template": "Brintellix_1.html"
+		},
+		"Brintellix_2": {
+			"name": "THREE DOMAINS OF MDD",
+			"template": "Brintellix_2.html"
+		},
+		"Brintellix_3": {
+			"name": "TREATMENT GOALS MDD PATIENTS MCNAUGHTON",
+			"template": "Brintellix_3.html"
+		},
+		"Brintellix_4": {
+			"name": "STAR D TRIVEDI",
+			"template": "Brintellix_4.html"
+		},
+		"Brintellix_5": {
+			"name": "CONRADI COGNITIVE SYMPTOMS PERSIST 94 PERCENT CONRADI",
+			"template": "Brintellix_5.html"
+		},
+		"Brintellix_6": {
+			"name": "COGDAD COGNITIVE DYSFUNCTION IN ASIANS CHIN",
+			"template": "Brintellix_6.html"
+		},
+		"Brintellix_7": {
+			"name": "TREATMENT SIDE EFFECTS 1 QUARTER OF PATIENTS DISCONTINUE",
+			"template": "Brintellix_7.html"
+		},
+		"Brintellix_8": {
+			"name": "ANHEDONIA PREVALENCE IN MDD",
+			"template": "Brintellix_8.html"
+		},
+		"Brintellix_10": {
+			"name": "MADRS ASSESSMENT",
+			"template": "Brintellix_10.html"
+		},
+		"Brintellix_11": {
+			"name": "PDQ ASSESSMENT",
+			"template": "Brintellix_11.html"
+		},
+		"Brintellix_12": {
+			"name": "DSST ASSESSMENT",
+			"template": "Brintellix_12.html"
+		},
+		"Brintellix_13": {
+			"name": "SDS ASSESSMENT",
+			"template": "Brintellix_13.html"
+		},
+		"Brintellix_14": {
+			"name": "UPSA ASSESSMENT",
+			"template": "Brintellix_14.html"
+		},
+		"Brintellix_15": {
+			"name": "SHAPS ASSESSMENT",
+			"template": "Brintellix_15.html"
+		},
+		"Brintellix_16": {
+			"name": "EEFRT ASSESSMENT",
+			"template": "Brintellix_16.html"
+		},
+		"Brintellix_17": {
+			"name": "MEI ASSESSMENT",
+			"template": "Brintellix_17.html"
+		},
+		"Brintellix_18": {
+			"name": "ODQ ASSESSMENT",
+			"template": "Brintellix_18.html"
+		},
+		"Brintellix_19": {
+			"name": "GAS D ASSESSMENT",
+			"template": "Brintellix_19.html"
+		},
+		"Brintellix_20": {
+			"name": "THASE 11 SHORT TERM STUDIES MADRS SYMPTOMS THASE",
+			"template": "Brintellix_20.html"
+		},
+		"Brintellix_21": {
+			"name": "PHYSICAL SYMPTOMS HAM D HAM A CHRISTENSEN",
+			"template": "Brintellix_21.html"
+		},
+		"Brintellix_22": {
+			"name": "REMISSION RATE AS 1ST LINE 69 PERCENT 12 WEEKS BOULENGER",
+			"template": "Brintellix_22.html"
+		},
+		"Brintellix_23": {
+			"name": "RELAPSE PREVENTION 50 PERCENT FEWER 24 WEEKS BOULENGER",
+			"template": "Brintellix_23.html"
+		},
+		"Brintellix_24": {
+			"name": "ALVAREZ SHORT TERM STUDY 6 WEEKS_WTH VENLAFAXINE 225MG ALVAREZ",
+			"template": "Brintellix_24.html"
+		},
+		"Brintellix_25": {
+			"name": "LONG TERM STUDY 52 WEEKS SUSTAINED RELIEF FROM SYMPTOMS VIETA",
+			"template": "Brintellix_25.html"
+		},
+		"Brintellix_26": {
+			"name": "CIPRIANI METAANALYSIS EFFICACY AND ACCEPTABILITY",
+			"template": "Brintellix_26.html"
+		},
+		"Brintellix_27": {
+			"name": "CONNECT PDQ COGNITIVE SYMPTOMS  8 WEEKS MAHABLESHWARKAR",
+			"template": "Brintellix_27.html"
+		},
+		"Brintellix_28": {
+			"name": "DSST DIRECT INDIRECT EFFECT COGNITIVE SYMPTOMS MICNTYRE",
+			"template": "Brintellix_28.html"
+		},
+		"Brintellix_29": {
+			"name": "BAUNE DSST COMPARISON ANTIDEPRESSANT EFFECT ON COG SYMPTOMS",
+			"template": "Brintellix_29.html"
+		},
+		"Brintellix_30": {
+			"name": "LEVEL OF EVIDENCE ON ANTIDEPRESSANT COGNITION EFFECTS MCITNYRE",
+			"template": "Brintellix_30.html"
+		},
+		"Brintellix_31": {
+			"name": "SDS FUNCTIONING META ANALYSIS 52 WEEKS  FLOREA",
+			"template": "Brintellix_31.html"
+		},
+		"Brintellix_32": {
+			"name": "UPSA CONNECT MAHABLESHWARKAR",
+			"template": "Brintellix_32.html"
+		},
+		"Brintellix_33": {
+			"name": "SUMMARY VS DULOXETINE COGNITIVE AND FUNCTIONING ASSESSMENTS",
+			"template": "Brintellix_33.html"
+		},
+		"Brintellix_34": {
+			"name": "SHAPS/MADRS ANHEDONIA 8 WEEKS CAO",
+			"template": "Brintellix_34.html"
+		},
+		"Brintellix_35": {
+			"name": "EEFRT ANHEDONIA REWARD MOTIVATION SUBRAMANIAPILLAI",
+			"template": "Brintellix_35.html"
+		},
+		"Brintellix_36": {
+			"name": "COMPLETE ODQ EMOTIONAL BLUNTING 8 WEEKS FAGIOLINI",
+			"template": "Brintellix_36.html"
+		},
+		"Brintellix_37": {
+			"name": "COMPLETE MEI MOTIVATION AND ENERGY 8 WEEKS FAGIOLINI",
+			"template": "Brintellix_37.html"
+		},
+		"Brintellix_38": {
+			"name": "GOAL ATTAINMENT BRINTELLIX AS SECOND LINE 12 WEEKS MCCUE",
+			"template": "Brintellix_38.html"
+		},
+		"Brintellix_39": {
+			"name": "REVIDA RESPONSE RATE PHQ 9 CGI S 3 MONTHS CHIN",
+			"template": "Brintellix_39.html"
+		},
+		"Brintellix_40": {
+			"name": "REVIDA REMISSION RATE PHQ 9 CGI S 3 MONTHS CHIN",
+			"template": "Brintellix_40.html"
+		},
+		"Brintellix_41": {
+			"name": "REVIDA DECREASE IN BENZO AND PSYCH MEDICATIONS 3 MONTHS CHIN",
+			"template": "Brintellix_41.html"
+		},
+		"Brintellix_42": {
+			"name": "REVIDA PDQ COGNITIVE FUNCTION 3 MONTHS CHIN",
+			"template": "Brintellix_42.html"
+		},
+		"Brintellix_43": {
+			"name": "REVIDA WPAI WORK PRODUCTIVITY 3 MONTHS REVIDA CHIN",
+			"template": "Brintellix_43.html"
+		},
+		"Brintellix_44": {
+			"name": "ATWORC PDQ DSST WPAI WLQ SCORES 52 WKS CHOKKA",
+			"template": "Brintellix_44.html"
+		},
+		"Brintellix_45": {
+			"name": "ATWORC 55 PERCENT FEWER MISSED WORK DAYS 52 WKS CHOKKA",
+			"template": "Brintellix_45.html"
+		},
+		"Brintellix_46": {
+			"name": "ATWORCGAD 7 ANXIETY SYMPTOMS REDUCTION 52 WKS CHOKKA",
+			"template": "Brintellix_46.html"
+		},
+		"Brintellix_47": {
+			"name": "SOLUTION VS VENLAFAXINE 150MG MADRS 8 WEEKS WANG",
+			"template": "Brintellix_47.html"
+		},
+		"Brintellix_48": {
+			"name": "REVIVE PARTIAL RESPONDERS VS AGOMELATINE MADRS MONTGOMERY",
+			"template": "Brintellix_48.html"
+		},
+		"Brintellix_49": {
+			"name": "KATONA ELDERLY PATIENTS HAM D 8 WEEKS KATONA",
+			"template": "Brintellix_49.html"
+		},
+		"Brintellix_50": {
+			"name": "ALVAREZ HAM A MORE THAN 20 ANXIETY SYMPTOMS 6 WEEKS ALVAREZ",
+			"template": "Brintellix_50.html"
+		},
+		"Brintellix_52": {
+			"name": "DOSE EFFECT WORKING POPULATION MADRS SCORE MCINTYRE",
+			"template": "Brintellix_52.html"
+		},
+		"Brintellix_53": {
+			"name": "TRAUMA DOSE-DEPENDENT MADRS CHRISTENSEN",
+			"template": "Brintellix_53.html"
+		},
+		"Brintellix_54": {
+			"name": "TRAUMA MADRS HAM A SDS SF 36 SYMPTOMS CHRISTENSEN",
+			"template": "Brintellix_54.html"
+		},
+		"Brintellix_55": {
+			"name": "TOLERABILITY ICONS SUMMARY",
+			"template": "Brintellix_55.html"
+		},
+		"Brintellix_56": {
+			"name": "CANMAT TOLERABILITY TABLE KENNEDY",
+			"template": "Brintellix_56.html"
+		},
+		"Brintellix_58": {
+			"name": "NEUROTRANMISSION BRINTELLIX MOA",
+			"template": "Brintellix_58.html"
+		},
+		"Brintellix_59": {
+			"name": "DOSING BRINTELLIX",
+			"template": "Brintellix_59.html"
+		},
+		"Brintellix_60": {
+			"name": "HIGH DOSE SUMMARY BRINTELLIX",
+			"template": "Brintellix_60.html"
+		},
+		"Brintellix_61": {
+			"name": "PHARMACOKINETIC BRINTELLIX",
+			"template": "Brintellix_61.html"
+		},
+		"Brintellix_62": {
+			"name": "BRINTELLIX PRESENTATION IMAGES",
+			"template": "Brintellix_62.html"
+		},
+		"Brintellix_63": {
+			"name": "BRINTELLIX API",
+			"template": "Brintellix_63.html"
+		},
+		"Brintellix_64": {
+			"name": "BIBLIOGRAPHY REFERENCES",
+			"template": "Brintellix_64.html"
+		},
+		"Brintellix_65": {
+			"name": "PATIENT CASES",
+			"template": "Brintellix_65.html"
+		},
+		"Brintellix_66": {
+			"name": "ROSA WORKING MOTHER PLUS EMOTIONAL BLUNTING",
+			"template": "Brintellix_66.html"
+		},
+		"Brintellix_67": {
+			"name": "GANG ENGINEER PLUS ANHEDONIA",
+			"template": "Brintellix_67.html"
+		},
+		"Brintellix_68": {
+			"name": "CELINE TEACHER PLUS  TRAUMA",
+			"template": "Brintellix_68.html"
+		},
+		"Brintellix_69": {
+			"name": "ANN RETIRED ELDERLY PLUS GOAL ATTAINMENT",
+			"template": "Brintellix_69.html"
+		},
+		"Brintellix_70": {
+			"name": "BALDWIN STUDY DESIGN SAFETY AND TOLERABILITY 11 SHORT TERM 5 LONG TERM STUDIES",
+			"template": "Brintellix_70.html"
+		},
+		"Brintellix_71": {
+			"name": "MONTGOMERY STUDY DESIGN REVIVE SUBOPTIMAL RESPONSE TO SSRI SNRI",
+			"template": "Brintellix_71.html"
+		},
+		"Brintellix_72": {
+			"name": "FLOREA STUDY DESIGN META ANALYSIS SDS 9 SHORT TERM STUDIES",
+			"template": "Brintellix_72.html"
+		},
+		"Brintellix_73": {
+			"name": "JACOBSEN STUDY DESIGN LONG TERM STUDY SDS 15MG 20MG",
+			"template": "Brintellix_73.html"
+		},
+		"Brintellix_74": {
+			"name": "KATONA STUDY DESIGN ELDERLY EFFICACY TOLERABILITY 5MG",
+			"template": "Brintellix_74.html"
+		},
+		"Brintellix_75": {
+			"name": "MAHABLESHWARKAR STUDY DESIGN CONNECT DSST PDQ COGNITIVE FUNCTION",
+			"template": "Brintellix_75.html"
+		},
+		"Brintellix_76": {
+			"name": "MCINTYRE STUDY DESIGN FOCUS Z SCORE DSST RAVLT",
+			"template": "Brintellix_76.html"
+		},
+		"Brintellix_77": {
+			"name": "ALVAREZ STUDY DESIGN EFFICACY VS VENLAFAXINE PLACEBO 6 WEEKS",
+			"template": "Brintellix_77.html"
+		},
+		"Brintellix_78": {
+			"name": "THASE STUDY DESIGN META ANALYSIS 11 TRIALS",
+			"template": "Brintellix_78.html"
+		},
+		"Brintellix_79": {
+			"name": "VIETA STUDY DESIGN LONG TERM SAFETY OF BRINTELLIX 52 WEEKS",
+			"template": "Brintellix_79.html"
+		},
+		"Brintellix_80": {
+			"name": "WANG STUDY DESIGN SOLUTION ASIAN PATIENTS",
+			"template": "Brintellix_80.html"
+		},
+		"Brintellix_81": {
+			"name": "CIPRIANI STUDY DESIGN META ANALYSIS 21 ANTIDEPRESSANTS EFFICACY TOLERABILITY",
+			"template": "Brintellix_81.html"
+		},
+		"Brintellix_82": {
+			"name": "CHIN STUDY DESIGN REVIDA MDD IN ASIAN PATIENTS",
+			"template": "Brintellix_82.html"
+		},
+		"Brintellix_83": {
+			"name": "CHOKKA STUDY DESIGN ATWORC",
+			"template": "Brintellix_83.html"
+		},
+		"Brintellix_84": {
+			"name": "BAUNE STUDY DESIGN META ANALYSIS DSST ANTIDEPRESSANTS",
+			"template": "Brintellix_84.html"
+		},
+		"Brintellix_85": {
+			"name": "BOULENGER STUDY DESIGN RELAPSE PREVENTION",
+			"template": "Brintellix_85.html"
+		},
+		"Brintellix_86": {
+			"name": "CHRISTENSEN STUDY DESIGN PHYSICAL SYMPTOMS",
+			"template": "Brintellix_86.html"
+		},
+		"Brintellix_87": {
+			"name": "JACOBSEN STUDY DESIGN SEXUAL FUNCTIONING CSFQ",
+			"template": "Brintellix_87.html"
+		},
+		"Brintellix_88": {
+			"name": "FAGIOLINI STUDY DESIGN EMOTIONAL BLUNTING ODQ",
+			"template": "Brintellix_88.html"
+		},
+		"Brintellix_89": {
+			"name": "MCCUE STUDY DESIGN GOAL ACHIEVEMENT",
+			"template": "Brintellix_89.html"
+		},
+		"Brintellix_91": {
+			"name": "CHRISTENSEN STUDY DESIGN TRAUMA",
+			"template": "Brintellix_91.html"
+		},
+		"Brintellix_p194": {
+			"name": "RECEPTORS BRINTELLIX MOA",
+			"template": "Brintellix_p194.html"
+		},
+		"Brintellix_41Copy2": {
+			"name": "BRINTELLIX_DVA_6_SG_V2_Real_world_Data_REVIDA_Anxiety",
+			"template": "Brintellix_41Copy2.html",
+			"copyFrom": "Brintellix_41"
+		},
+		"Brintellix_NewAss_2": {
+			"name": "EMOTIONAL BLUNTING OF SSRI PATIENTS REPORT",
+			"template": "Brintellix_NewAss_2.html"
+		},
+		"Brintellix_NewAss_3": {
+			"name": "RELIEVE SDS 24 WEEKS MATTINGLY",
+			"template": "Brintellix_NewAss_3.html"
+		},
+		"Brintellix_NewAss_4": {
+			"name": "MADRS_SDS ANHEDONIA DOSE RESPONSE MCINTYRE",
+			"template": "Brintellix_NewAss_4.html"
+		},
+		"Brintellix_NewAss_6": {
+			"name": "HIGH DOSE COMORBID GAD MADRS HAM A 8 WEEKS RECONNECT CHRISTENSEN",
+			"template": "Brintellix_NewAss_6.html"
+		},
+		"Brintellix_NewAss_7": {
+			"name": "FLOREA STUDY DESIGN RECONNECT",
+			"template": "Brintellix_NewAss_7.html"
+		},
+		"Brintellix_NewAss_9": {
+			"name": "Brintellix_NewAss_9",
+			"template": "Brintellix_NewAss_9.html"
+		},
+		"Brintellix_NewAss_8": {
+			"name": "Brintellix_NewAss_8",
+			"template": "Brintellix_NewAss_8.html"
+		},
+		"Brintellix_NewAss_10": {
+			"name": "Brintellix_NewAss_10",
+			"template": "Brintellix_NewAss_10.html"
+		}
+	},
+	"chapters": {
+		"main": {
+			"name": "Main chapter",
+			"content": [
+				"Brintellix_1"
+			],
+			"chapterExternalId": "da4c3ba7"
+		},
+		"chapter_cw9b9ylxk": {
+			"name": "MDD/Unmet needs",
+			"content": [
+				"Brintellix_2",
+				"Brintellix_3",
+				"Brintellix_4",
+				"Brintellix_5",
+				"Brintellix_6",
+				"Brintellix_7",
+				"Brintellix_8",
+				"Brintellix_NewAss_2"
+			],
+			"chapterExternalId": "2ceb09d2"
+		},
+		"chapter_w64ie8l2k": {
+			"name": "Assessments",
+			"content": [
+				"Brintellix_10",
+				"Brintellix_11",
+				"Brintellix_12",
+				"Brintellix_13",
+				"Brintellix_14",
+				"Brintellix_15",
+				"Brintellix_16",
+				"Brintellix_17",
+				"Brintellix_18",
+				"Brintellix_19"
+			],
+			"chapterExternalId": "94f05b5f"
+		},
+		"chapter_1ipblrd3v": {
+			"name": "Feel Better",
+			"content": [
+				"Brintellix_20",
+				"Brintellix_21",
+				"Brintellix_22",
+				"Brintellix_23",
+				"Brintellix_24",
+				"Brintellix_25",
+				"Brintellix_26",
+				"Brintellix_48"
+			],
+			"chapterExternalId": "8df325db"
+		},
+		"chapter_ccumrj4v4": {
+			"name": "Think & Do Better",
+			"content": [
+				"Brintellix_27",
+				"Brintellix_28",
+				"Brintellix_29",
+				"Brintellix_30",
+				"Brintellix_31",
+				"Brintellix_32",
+				"Brintellix_33",
+				"Brintellix_37",
+				"Brintellix_38"
+			],
+			"chapterExternalId": "9d660d25"
+		},
+		"chapter_2ml2067dg": {
+			"name": "Real-world Data",
+			"content": [
+				"Brintellix_39",
+				"Brintellix_40",
+				"Brintellix_41",
+				"Brintellix_42",
+				"Brintellix_43",
+				"Brintellix_44",
+				"Brintellix_45",
+				"Brintellix_46",
+				"Brintellix_NewAss_3"
+			],
+			"chapterExternalId": "a7a9558b"
+		},
+		"chapter_9htk88yrs": {
+			"name": "Populations",
+			"content": [
+				"Brintellix_47",
+				"Brintellix_49",
+				"Brintellix_52",
+				"Brintellix_34",
+				"Brintellix_35",
+				"Brintellix_NewAss_4"
+			],
+			"chapterExternalId": "f27f54e3"
+		},
+		"chapter_k1fohb8cn": {
+			"name": "Tolerability",
+			"content": [
+				"Brintellix_55",
+				"Brintellix_56"
+			],
+			"chapterExternalId": "a38a0e7c"
+		},
+		"chapter_m75rbybii": {
+			"name": "MoA",
+			"content": [
+				"Brintellix_p194",
+				"Brintellix_58"
+			],
+			"chapterExternalId": "2447eac6"
+		},
+		"chapter_co5e4l9u6": {
+			"name": "Dosing",
+			"content": [
+				"Brintellix_59",
+				"Brintellix_60",
+				"Brintellix_NewAss_10",
+				"Brintellix_NewAss_9",
+				"Brintellix_61",
+				"Brintellix_62"
+			],
+			"chapterExternalId": "c8300495"
+		},
+		"chapter_5dkfcngx5": {
+			"name": "API_Ref",
+			"content": [
+				"Brintellix_63",
+				"Brintellix_64"
+			],
+			"chapterExternalId": "02bd9110"
+		},
+		"chapter_ntw9pug98": {
+			"name": "Patient Profiles",
+			"content": [
+				"Brintellix_65",
+				"Brintellix_66",
+				"Brintellix_67",
+				"Brintellix_68",
+				"Brintellix_69"
+			],
+			"chapterExternalId": "7abe8c55"
+		},
+		"chapter_do92xnh6a": {
+			"name": "Study Designs",
+			"content": [
+				"Brintellix_70",
+				"Brintellix_71",
+				"Brintellix_72",
+				"Brintellix_73",
+				"Brintellix_74",
+				"Brintellix_75",
+				"Brintellix_76",
+				"Brintellix_77",
+				"Brintellix_78",
+				"Brintellix_79",
+				"Brintellix_80",
+				"Brintellix_81",
+				"Brintellix_82",
+				"Brintellix_83",
+				"Brintellix_84",
+				"Brintellix_85",
+				"Brintellix_86",
+				"Brintellix_87",
+				"Brintellix_88",
+				"Brintellix_89",
+				"Brintellix_91",
+				"Brintellix_NewAss_7",
+				"Brintellix_NewAss_8"
+			],
+			"chapterExternalId": "75dafb0d"
+		},
+		"chapter_ag9pvwxfd": {
+			"name": "Populations 2",
+			"content": [
+				"Brintellix_36",
+				"Brintellix_50",
+				"Brintellix_NewAss_6",
+				"Brintellix_41Copy2",
+				"Brintellix_53",
+				"Brintellix_54"
+			],
+			"chapterExternalId": "d2881466"
+		}
+	},
+	"storyboard": [
+		"main",
+		"chapter_cw9b9ylxk",
+		"chapter_w64ie8l2k",
+		"chapter_1ipblrd3v",
+		"chapter_ccumrj4v4",
+		"chapter_2ml2067dg",
+		"chapter_9htk88yrs",
+		"chapter_ag9pvwxfd",
+		"chapter_k1fohb8cn",
+		"chapter_m75rbybii",
+		"chapter_co5e4l9u6",
+		"chapter_5dkfcngx5",
+		"chapter_ntw9pug98",
+		"chapter_do92xnh6a"
+	]
+}

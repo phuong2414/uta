@@ -1,0 +1,638 @@
+{
+	"kihkd277Image": {
+		"src": "media/images/Brintellix_21/img-kihkd1qb.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd279Image": {
+		"src": "media/images/Brintellix_21/img-kihkd1lm.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd27dImage": {
+		"src": "media/images/Brintellix_21/img-kihkd1lg.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd27eImage": {
+		"src": "media/images/Brintellix_21/b308d09df2e11c55.png?1608280559915",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd27gImage": {
+		"src": "media/images/Brintellix_21/img-kihkd1om.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd27hImage": {
+		"src": "media/images/Brintellix_21/img-kihkd1ok.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd27iImage": {
+		"src": "media/images/Brintellix_21/img-kihkd1r5.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd27jImage": {
+		"src": "media/images/Brintellix_21/img-kihkd1ol.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd27kImage": {
+		"src": "media/images/Brintellix_21/img-kihkd1oi.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd27lImage": {
+		"src": "media/images/Brintellix_21/img-kihkd1oj.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd27mImage": {
+		"src": "media/images/Brintellix_21/img-kihkd1my.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"kihkd27nImage": {
+		"src": "media/images/Brintellix_21/img-kihkd1oh.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-container_17cc3ece": {},
+	"co-container_bc96b3c9": {},
+	"co-image_ad24b31a": {
+		"src": "media/images/Brintellix_21/9ac0bef8c3c7a3d8.png?1608003101638",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text_845f0a76": {
+		"html": "t.Brintellix_21704c3a1e"
+	},
+	"co-text_7976f724": {
+		"html": "t.Brintellix_21312ed45e"
+	},
+	"co-text_6920f238": {
+		"html": "t.Brintellix_212cd1d584"
+	},
+	"co-text_113b4eba": {
+		"html": "t.Brintellix_21de9a12ff"
+	},
+	"co-text_bcea4eb8": {
+		"html": "t.Brintellix_21d22f7cb8"
+	},
+	"co-text_3aebf81f": {
+		"html": "t.Brintellix_21173bafa9"
+	},
+	"co-text_03c2c38f": {
+		"html": "t.Brintellix_219d36d17e"
+	},
+	"co-text_54618e47": {
+		"html": "t.Brintellix_2172bf0d6f"
+	},
+	"co-text_db4c6e76": {
+		"html": "t.Brintellix_212edc22fa"
+	},
+	"co-text_a0b39bf7": {
+		"html": "t.Brintellix_21f27ab687"
+	},
+	"co-text_19a889e6": {
+		"html": "t.Brintellix_2187c427f1"
+	},
+	"co-text_fd3150a7": {
+		"html": "t.Brintellix_217c4d9027"
+	},
+	"co-text_e92b29d9": {
+		"html": "t.Brintellix_2134d86ef1"
+	},
+	"co-text_393ccf5e": {
+		"html": "t.Brintellix_21abb40e8b"
+	},
+	"co-container_2dfb5531": {},
+	"co-image_453126f3": {
+		"src": "media/images/Brintellix_21/c5c635db714321a8.png?1608005588143",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text_6911bc39": {
+		"html": "t.Brintellix_218e5abe8f"
+	},
+	"co-text_31d67f9d": {
+		"html": "t.Brintellix_21a2809b2b"
+	},
+	"co-text_4c1fffa0": {
+		"html": "t.Brintellix_21b0b7d8b8"
+	},
+	"co-text_979a3b79": {
+		"html": "t.Brintellix_21cb4fa6fe"
+	},
+	"co-text_d0139e84": {
+		"html": "t.Brintellix_217bcfcc00"
+	},
+	"co-text_64e0bf24": {
+		"html": "t.Brintellix_21810134cc"
+	},
+	"co-text_fa8bc5d9": {
+		"html": "t.Brintellix_215a25d298"
+	},
+	"co-text_55cf0025": {
+		"html": "t.Brintellix_21a0b806e3"
+	},
+	"co-text_5748595d": {
+		"html": "t.Brintellix_212287d1bd"
+	},
+	"co-text_7dd4385c": {
+		"html": "t.Brintellix_21519df952"
+	},
+	"co-text_3f972532": {
+		"html": "t.Brintellix_2129b99e65"
+	},
+	"co-text_fab3c3fd": {
+		"html": "t.Brintellix_21b6082c5f"
+	},
+	"co-text_1fe0b994": {
+		"html": "t.Brintellix_213dc27d06"
+	},
+	"co-text_73868d26": {
+		"html": "t.Brintellix_21876d013d"
+	},
+	"co-popup_dadaee1f": {
+		"id": "co-popup_dadaee1f",
+		"title": "Popup 01",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": false,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_d9a31546": {
+		"html": "t.Brintellix_213bb9e7a7"
+	},
+	"co-text_0fa6afb4": {
+		"html": "t.Brintellix_2196b837f1"
+	},
+	"co-text_7615b126": {
+		"html": "t.Brintellix_215b0d4e75"
+	},
+	"co-text_606313a7": {
+		"html": "t.Brintellix_21d7cabcd6"
+	},
+	"co-text_b45a6386": {
+		"html": "t.Brintellix_217dc64004"
+	},
+	"co-text_758564f3": {
+		"html": "t.Brintellix_21f8899e4a"
+	},
+	"co-text_0c2e9670": {
+		"html": "t.Brintellix_215ccc796b"
+	},
+	"co-text_e186af51": {
+		"html": "t.Brintellix_2197adc74d"
+	},
+	"co-text_f16ddb0a": {
+		"html": "t.Brintellix_21a5bcaf35"
+	},
+	"co-text_b2ea4c5d": {
+		"html": "t.Brintellix_2144061f91"
+	},
+	"co-text_3779a46a": {
+		"html": "t.Brintellix_21bf3ea637"
+	},
+	"co-text_c3af2868": {
+		"html": "t.Brintellix_2157516566"
+	},
+	"co-popup_e905062b": {
+		"id": "co-popup_e905062b",
+		"title": "Popup 02",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": false,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_c97168c9": {
+		"html": "t.Brintellix_219150f17a"
+	},
+	"co-text_46fe8158": {
+		"html": "t.Brintellix_214669b681"
+	},
+	"co-text_5aabe7cc": {
+		"html": "t.Brintellix_21eaa7a49a"
+	},
+	"co-text_fd5b9cf1": {
+		"html": "t.Brintellix_21dd9ad953"
+	},
+	"co-text_8d1c0f90": {
+		"html": "t.Brintellix_21a5cebf4f"
+	},
+	"co-text_80e13c25": {
+		"html": "t.Brintellix_2113f56813"
+	},
+	"co-text_4929b70b": {
+		"html": "t.Brintellix_218deda5d0"
+	},
+	"co-text_c6a54c77": {
+		"html": "t.Brintellix_216a7e4bfc"
+	},
+	"co-text_691fa635": {
+		"html": "t.Brintellix_2176e5c681"
+	},
+	"co-text_4d5672fd": {
+		"html": "t.Brintellix_21f4372f54"
+	},
+	"co-text_bd6677b1": {
+		"html": "t.Brintellix_21e5568f6b"
+	},
+	"co-text_5660230a": {
+		"html": "t.Brintellix_21d3f03e7b"
+	},
+	"co-text-button_5381ac37": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_21d67bb03a"
+		}
+	},
+	"co-text-button_bcea6724": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_21a90e3956"
+		}
+	},
+	"co-text-button_4841a7e9": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_21646fbd26"
+		}
+	},
+	"co-text-button_2d63d983": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_211bc8be38"
+		}
+	},
+	"co-image_3734a346": {
+		"src": "media/images/Brintellix_21/9aeb9aff10e4deb9.png?1608016425244",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-image_b5cb3cb6": {
+		"src": "media/images/Brintellix_21/c4be53e632df4b75.png?1608016493033",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-text-button_5774123f": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_216d48cfb4"
+		}
+	},
+	"open-popup_c16504e2": {
+		"id": "co-popup_dadaee1f",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"co-text-button_1de549f4": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_21c4830382"
+		}
+	},
+	"open-popup_a6d4d93d": {
+		"id": "co-popup_e905062b",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"co-popup_bb6c6656": {
+		"id": "co-popup_bb6c6656",
+		"title": "Popup_ref",
+		"showCloseButton": true,
+		"showOnSlideEnter": false,
+		"lockSwipeWhenOpened": true,
+		"hideOnOutsideTap": false,
+		"closeButtonImage": {
+			"src": "../node_modules/co-popup/src/js/../../media/images/close-black.png",
+			"position": "center center",
+			"size": "contain"
+		},
+		"wasOpened": false,
+		"closeOnWillgoto": true,
+		"visible": false,
+		"showOn": "show",
+		"hideOn": "hide",
+		"showAnimation": {
+			"name": "fadeIn",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": false,
+			"blockDispatcher": false
+		},
+		"hideAnimation": {
+			"name": "fadeOut",
+			"duration": 0.5,
+			"delay": 0,
+			"disabled": false,
+			"infinite": false,
+			"on": "",
+			"initVisibility": true,
+			"blockDispatcher": false
+		},
+		"screenshotStates": "on"
+	},
+	"co-text_74bc491f": {
+		"html": "t.Brintellix_2124604c6e"
+	},
+	"co-text_5ae0f128": {
+		"html": "t.Brintellix_21a5b9b958"
+	},
+	"co-image_32fd9882": {
+		"src": "media/images/Brintellix_21/23d0668e4de3fe49.png",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-image_123b9808": {
+		"src": "media/images/Brintellix_21/ad0b907a85def8c7.png?1608114037407",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-image_7531e5a4": {
+		"src": "media/images/Brintellix_21/97dd2c370d099d24.png?1608173202141",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-image_470b13b7": {
+		"src": "media/images/Brintellix_21/241d5d57683e85a3.png?1608278527937",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-image_f941ff6e": {
+		"src": "media/images/Brintellix_21/1c8b018ed87c0f89.png?1608173390202",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-image_84c5ef42": {
+		"src": "media/images/Brintellix_21/cac03c3f2c023be1.png?1608278553865",
+		"position": "center center",
+		"size": "contain"
+	},
+	"co-image_7620a4bf": {
+		"src": "media/images/Brintellix_21/936f587843fb5963.png?1608278581575",
+		"position": "center center",
+		"size": "contain"
+	},
+	"open-popup_6090d5e7": {
+		"id": "co-popup_bb6c6656",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"co-text-button_979fe678": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_21c8e6bb33"
+		}
+	},
+	"open-popup_6a103aee": {
+		"id": "co-popup_bb6c6656",
+		"on": "tap",
+		"onglobal": ""
+	},
+	"co-text-button_582c2e95": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_2176be8b88"
+		}
+	},
+	"open_e274493a": {
+		"on": "tap",
+		"onglobal": "",
+		"disabled": false,
+		"src": "media/pdfs/Brintellix_21/0460737badd7.pdf?1608805452980",
+		"page": 1
+	},
+	"co-container_c8fc14f5": {},
+	"co-text_dbee6b2b": {
+		"html": "t.Brintellix_218edcbccf"
+	},
+	"co-text_866cb783": {
+		"html": "t.Brintellix_21fc59dd6d"
+	},
+	"co-text_fb3a4195": {
+		"html": "t.Brintellix_214574eb33"
+	},
+	"co-text_99cd59cd": {
+		"html": "t.Brintellix_211b89ec32"
+	},
+	"co-text_6a39d8fe": {
+		"html": "t.Brintellix_219de60d3c"
+	},
+	"co-text_44712e22": {
+		"html": "t.Brintellix_214583d796"
+	},
+	"nav_5bdcbc3d": {
+		"event": "tap",
+		"slide": "Brintellix_20",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_1df89007": {
+		"event": "tap",
+		"slide": "Brintellix_22",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_92ab6a5c": {
+		"event": "tap",
+		"slide": "Brintellix_21",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	},
+	"nav_d7b96229": {
+		"event": "tap",
+		"slide": "Brintellix_24",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_d7b9622900": {
+		"event": "tap",
+		"slide": "Brintellix_23",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_419f1b68": {
+		"event": "tap",
+		"slide": "Brintellix_25",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"nav_7ab2507f": {
+		"event": "tap",
+		"slide": "Brintellix_26",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": "",
+		"navigation": "Slide"
+	},
+	"co-text-button_f1d13f53": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_21dbd0c95c"
+		}
+	},
+	"nav_dadda3d0": {
+		"event": "tap",
+		"navigation": "Slide",
+		"slide": "Brintellix_2",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	},
+	"co-text-button_e60284dc": {
+		"toggles": false,
+		"active": false,
+		"pressed": false,
+		"shadow": false,
+		"disabled": false,
+		"text": {
+			"html": "t.Brintellix_210fced7cc"
+		}
+	},
+	"nav_91662f86": {
+		"event": "tap",
+		"navigation": "Slide",
+		"slide": "Brintellix_2",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	},
+	"nav_d546006c": {
+		"event": "tap",
+		"navigation": "Slide",
+		"slide": "Brintellix_86",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	},
+	"co-text_4d7b0ad3": {
+		"html": "t.Brintellix_215346aac6"
+	},
+	"co-text_a79bcb25": {
+		"html": "t.Brintellix_21f415cf8f"
+	},
+	"nav_5d527136": {
+		"event": "tap",
+		"navigation": "Slide",
+		"slide": "Brintellix_48",
+		"disabled": false,
+		"noTransition": false,
+		"presentationId": ""
+	}
+}

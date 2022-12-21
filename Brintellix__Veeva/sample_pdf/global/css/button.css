@@ -1,0 +1,36 @@
+/*---------------------Begin:Button---------------*/
+.buttons
+{
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+	z-index: 11;
+	width:50px;
+	
+}
+.buttons .button
+{
+	width:50px;
+	height: 40px;
+	position: relative;
+
+	background: url("../images/button.png") no-repeat;
+}
+.buttons .button.active
+{
+	background-position-y:-40px; 
+}
+.buttons .button.disable
+{
+	background-position-y:-80px; 
+}
+
+.buttons .ref
+{
+	background-position-x:-50px; 
+}
+.buttons .related
+{
+	background-position-x:0px; 
+}
+/*---------------------End:Button---------------*/
