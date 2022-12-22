@@ -1,0 +1,20 @@
+<ul class="navi">
+	<li class="2 3 4 5 6 7" slideid="2">Einzigartig: 5G</li>
+    <li class="8" slideid="8">Wirksamkeit</li>
+	<li class="12 9 10" slideid="12">Kinder</li>
+    <li class="11" slideid="11">Fokus Patient</li>
+    <li class="13" slideid="13">Anwendung</li>
+</ul>
+
+<script type="text/javascript">	
+	$('.navi li').bind('tapone', function() {		
+		var slideId = $(this).attr('slideid');
+		if(slideId == '' || slideId == undefined){
+			return;
+		}
+		
+        drcom.gotoSlide(slideId);		     
+    });	
+    
+	$('.'+drcom.menuItem).addClass('act');
+</script>

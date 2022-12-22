@@ -1,0 +1,96 @@
+.controlbar
+{
+	background: url("../images/video/controlbar.png") no-repeat;
+	width:216px;
+	height: 44px;
+	position: absolute;
+	left: 107px;
+	bottom: 46px;
+	z-index: 3;
+
+}
+.controlbar .button
+{
+	width:28px;
+	height: 22px;
+	margin: 0px 0px 0px 7px;
+	background: transparent no-repeat scroll center center;
+	float: left;
+	height: 100%;
+
+}
+.controlbar .play_pause,.controlbar .play
+{
+	background-image: url("../images/video/btn_pause.png");
+	background-size: 40%;
+}
+.controlbar .pause
+{
+	background-image: url("../images/video/btn_play.png");
+	background-size: 40%;
+}
+.controlbar .prev
+{
+	background-image: url("../images/video/btn_pre.png");
+	margin-left:72px;
+	background-size: 60%;
+}
+.controlbar .next
+{
+	background-image: url("../images/video/btn_next.png");
+	background-size: 60%;
+}
+.controlbar .fullscreen
+{
+	background-image: url("../images/video/btn_fullscreen.png");
+	background-size: 60%;
+}
+.controlbar .time,.controlbar  .remaintime
+{
+	font-weight:  bold;
+	position: absolute;
+	top: 13px;
+}
+
+.controlbar .time
+{
+	left: 224px;
+	color:#666;
+}
+.controlbar .remain{ position:absolute; top:14px; left:87px; color:#fff;}
+.controlbar  .remaintime
+{
+
+	left: 225px;
+	width:70px;
+}
+
+.controlbar  .seek
+{
+	width: 546px;
+	height: 36px;
+	background: url("../images/video/seek.png") repeat-x scroll left center;
+	position: absolute;
+	top: 3px;
+	left: 277px;
+
+}
+.controlbar .ui-slider-range-min
+{
+
+	background: url("../images/video/range.png") repeat-x scroll left center;
+	height: 100%;
+	position: absolute;
+
+}
+.controlbar .ui-slider-handle
+{
+	width:42px;
+	height: 100%;
+	background: url("../images/video/handle.png") no-repeat scroll center center;
+	position:absolute;
+	margin-left: -20px;
+	
+}
+
+

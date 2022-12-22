@@ -1,0 +1,200 @@
+#sitemap {
+    /*visibility: hidden;*/
+    height: 550px;
+    left: 100px;
+    position: absolute;
+    top: 160px;
+    width: 900px;
+}
+
+    #sitemap .headers {
+        width: 860px;
+        height: 40px;
+        overflow: hidden;
+    }
+
+        #sitemap .headers .headers-content {
+            display: -webkit-box;
+            -webkit-box-orient: horizontal;
+            -webkit-transform-origin: 0 0;
+        }
+
+.headers div.header {
+    background: #00a7e5; margin-right: 13px; font-size: 20px;
+    color: white;
+    border-radius: 10px;
+    width: 184px;
+    height: 50px;
+    padding: 0 10px;
+    display: -webkit-box;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+}
+
+#sitemap .content-wrapper {
+    position: relative;
+    height: 435px;
+	
+    width: 880px;
+}
+
+#sitemap .content {
+    width: 890px; overflow: hidden;
+    position: relative;
+    height: 435px;
+}
+
+/*#sitemap .sitemapScrollbarH {
+    bottom: 0;
+    height: 10px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+
+    #sitemap .sitemapScrollbarH > div {
+        -webkit-border-radius: 5px;
+        background-color: #e87727;
+        height: 10px;
+    }
+
+#sitemap .sitemapScrollbarV {
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0px;
+    width: 10px;
+}
+
+    #sitemap .sitemapScrollbarV > div {
+        -webkit-border-radius: 5px;
+        background-color: #e87727;
+        width: 10px;
+    }
+*/
+
+#sitemap ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#sitemap li {
+    position: relative;
+    margin: 0;
+}
+
+#sitemap ul ul li {
+    margin: 0 0 10px;
+}
+
+#sitemap li img {
+    width: 200px;
+    height: 150px;
+}
+
+#sitemap a {
+    width: 204px;
+    height: 154px;
+    display: block;
+    overflow: hidden;
+    position: relative;
+    border: 4px solid #eee;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+#sitemap .content li.current > a {
+    box-shadow: 0 0 10px 1px #00a7e5;
+    border-color: #00a7e5
+}
+
+#sitemap .headers li.current > div.header {
+    background: #077BA6;
+}
+
+#sitemap .hideonslide, #sitemap .hideonmenu {
+    display: none;
+}
+
+#sitemap .content-wrapper li span {
+    position: absolute; background: rgba(255,255,255,.8);
+    bottom: 0px; color: #777; padding: 5px 0;
+    width: 100%;
+    display: block;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+#sitemap .content > ul {
+	width:2380px !important;
+    white-space: nowrap;
+    display: inline-block;
+    vertical-align: top;
+    -webkit-transform-origin: left top;
+}
+
+    #sitemap .content > ul > li {
+        vertical-align: top; margin-right: 10px;
+        display: inline-block;
+    }
+
+#sitemap ul ul {
+    margin: 10px 0px;
+}
+
+#sitemap li li {
+}
+
+#sitemap .hideonmenu, #sitemap .hideonslide {
+    display: none !important;
+}
+
+.backBtn{ position:absolute; width:74px; height:74px; right: 0; top: 25px; z-index: 10; background:url(../images/sitemap/back_btn.png) no-repeat;}
+/**/
+.iScrollHorizontalScrollbar {
+    position: absolute;
+    /*z-index: 9999;*/
+    height: 7px;
+    left: 2px;
+    right: 2px;
+    bottom: 2px;
+    overflow: hidden;
+	opacity:0.5
+}
+
+.iScrollHorizontalScrollbar.iScrollBothScrollbars {
+    right: 18px;
+}
+
+.iScrollVerticalScrollbar {
+    position: absolute;
+    /*z-index: 9999;*/
+    width: 7px;
+    bottom: 2px;
+    top: 2px;
+    right: -21px;
+    overflow: hidden;
+	opacity:0.5
+}
+
+.iScrollVerticalScrollbar.iScrollBothScrollbars {
+    bottom: 18px;
+	opacity:0.5
+}
+
+.iScrollIndicator {
+    position: absolute;
+    border-radius: 8px;
+}
+
+.iScrollHorizontalScrollbar .iScrollIndicator {
+    height: 100%;
+    background-color: #0097be;
+}
+
+.iScrollVerticalScrollbar .iScrollIndicator {
+    width: 100%;
+    background-color: #0097be;
+}

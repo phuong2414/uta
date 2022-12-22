@@ -1,0 +1,57 @@
+#related
+{
+	position: absolute;
+	z-index: 40001;
+	right: 10px;
+	bottom: 100px;
+	display: none;
+	background:#595e62;
+	padding:3px;
+}
+#related ul
+{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+#related .text {
+
+	height: 32px;
+	width: 100%;
+	position: absolute;
+	z-index: 2;
+	bottom: 0px;
+	left: 0px;
+	color: white;
+	font-size: 12px;
+	line-height: 32px;
+	display: block;
+	text-align:center;
+}
+	
+	#related  span span {
+		position: relative;
+		line-height: 12px;
+		display: block;
+		padding-top: 3px;
+	}
+
+#related li
+{
+	width: 100px;
+	height: 80px;
+	margin: 4px;
+	list-style: none;
+	position: relative;	
+}
+
+#related img {
+	width: 99px;
+	height: 80px;
+	position: absolute;
+	z-index: 1;
+	left: 0px;
+	top: 0px;
+	-webkit-border-radius:0px;
+}
+

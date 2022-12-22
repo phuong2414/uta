@@ -1,0 +1,99 @@
+.breadcrumb {
+    height: 120px;
+    position: absolute;
+    right: 0px;
+    text-align: center;
+    top: 0px;
+    width: 155px;
+    z-index: 98;
+}
+
+    .breadcrumb .column {
+        display: inline-block;
+        vertical-align: top;
+        margin: 5px 0 10px 0;
+        min-width: 12px;
+    }
+
+        .breadcrumb .column:first-child {
+            margin-left: 15px;
+        }
+
+        .breadcrumb .column:last-child {
+            margin-right: 15px;
+        }
+
+    .breadcrumb .breadcrumb-item {
+        -webkit-border-radius: 50%;
+        background:rgba(0,0,0,0.3) !important;
+        height: 10px;
+        margin: 0 auto 4px auto;
+        width: 10px;
+    }
+
+    .breadcrumb .selected {
+        background:url(../images/breadcrumb/breadcrumb_active_icon.png) no-repeat #000 !important;
+    }
+
+    .breadcrumb .icon-prev, .breadcrumb .icon-next, .breadcrumb .icon-down {
+        -webkit-border-radius: 0;
+        background:none !important;
+        height: 0;
+        width: 0;
+    }
+
+    .breadcrumb .icon-prev {
+        border-right: 10px solid transparent;
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+    }
+
+    .breadcrumb .icon-next {
+        border-left: 10px solid transparent;
+        border-top: 5px solid transparent;
+        border-bottom: 5px solid transparent;
+    }
+
+    .breadcrumb .icon-down {
+        border-left: 5px solid transparent;
+        border-right: 5px solid transparent;
+        border-top: 10px solid transparent;
+    }
+
+    .breadcrumb .ignoreItem, .breadcrumb .ignoreItem:before, .breadcrumb .ignoreItem:after {
+        background-color: #fdae35;
+        -webkit-border-radius: 0;
+        height: 4px;
+        margin: 0 auto 2px auto;
+        width: 4px;
+    }
+
+    .breadcrumb .ignoreItem {
+        margin-bottom: 16px;
+        position: relative;
+    }
+
+        .breadcrumb .ignoreItem:before, .breadcrumb .ignoreItem:after {
+            content: " ";
+            display: block;
+            left: 0;
+            position: absolute;
+            top: 6px;
+        }
+
+        .breadcrumb .ignoreItem:before {
+            top: 12px;
+        }
+
+.breadcrumb_bg {
+    -webkit-border-radius: 90px;
+    -webkit-box-shadow: 5px 0 10px rgba(144,144,144,.33) inset;
+    -webkit-transform: translate(22px, -56px);
+    height: 175px;
+    width: 175px;
+    background: #fff !important;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 97;
+}

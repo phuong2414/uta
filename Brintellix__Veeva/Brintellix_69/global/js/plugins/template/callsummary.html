@@ -1,0 +1,87 @@
+<div id="wrapper" class="wrapper">
+    <div class="topline"></div>
+    <div id="Slides">
+        <section class="slide" data-slide="callSummary">
+            <header>
+                <h1><%= header %></h1>
+            </header>
+            <div class="summaryContainer">
+                <div class="column">
+                    <h2><%= visitedTitle %></h2>
+
+                    <% if (flows) { %>
+                        <div class="flow_buttons_bar top_buttons">
+                            <% _.each(flows, function(flowId, i) { %>
+                                <div class="flow_btn <%= buttonCls[i] || '' %> <%= (flowId == drcom.currentFlowId ? 'actived': '') %>" flow-id="<%= flowId %>"></div>
+                            <% }); %>
+                        </div>
+                    <% } %>
+
+                    <%
+                        var groupedVisited = {};
+                        _.each(visited, function(slides, flowId) {
+                            if (!groupedVisited[flowId]) groupedVisited[flowId] = [];
+                            _.each(slides, function(item) {
+                                if ($.inArray(item.topic, groupedVisited[flowId])  < 0)
+                                    groupedVisited[flowId].push(item.topic);
+                            });
+                        });
+                    %>
+
+                    <% _.each(groupedVisited, function(topics, flowId) { %>
+                    
+                        <div class="leftCont <%= (flowId == drcom.currentFlowId ? 'actived': '') %>" flow-id="<%= flowId %>">
+                            <div class="content">
+                                <ul>
+                                    <% _.each(topics, function(topic) { %>
+                                        <li><%= topic %></li>
+                                    <% }); %>
+                                    <% _.each(popup[flowId], function(item) { %>
+                                        <li><%= item.topic %></li>
+                                    <% }); %>
+                                </ul>
+                            </div>
+                        </div>
+                    <% }); %>
+                </div>
+                <div class="column">
+                    <h2><%= notVisitedTitle %></h2>
+
+                    <%
+                        var groupedNotVisited = {};
+                        _.each(notVisited, function(slides, flowId) {
+                            if (!groupedNotVisited[flowId]) groupedNotVisited[flowId] = [];
+                            _.each(slides, function(item) {
+                                if ($.inArray(item.topic, groupedNotVisited[flowId])  < 0)
+                                    groupedNotVisited[flowId].push(item.topic);
+                            });
+                        });
+                    %>
+
+                    <% _.each(groupedNotVisited, function(topics, flowId) { %>
+                        <div class="rightCont <%= (flowId == drcom.currentFlowId ? 'actived': '') %>" flow-id="<%= flowId %>">
+                            <div class="content">
+                                <ul>
+                                    <% _.each(topics, function(topic) { %>
+                                        <li><%= topic %></li>
+                                    <% }); %>
+                                </ul>
+                            </div>
+                        </div>
+                    <% }); %>
+
+                    <% if (flows) { %>
+                        <div class="flow_buttons_bar bottom_buttons">
+                            <% _.each(flows, function(flowId, i) { %>
+                                <div class="flow_btn  <%= buttonCls[i] || '' %> <%= (flowId == drcom.currentFlowId ? 'actived': '') %>" flow-id="<%= flowId %>" flow-id="<%= flowId %>"></div>
+                            <% }); %>
+                        </div>
+                    <% } %>
+
+                    <div class="helveticaneueltstd_hv" id="submitSelected"><%= submitBtnText %></div>
+                    <div class="helveticaneueltstd_hv" id="resetSelected"><%= resetBtnText %></div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>

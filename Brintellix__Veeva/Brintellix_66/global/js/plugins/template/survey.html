@@ -1,0 +1,60 @@
+<div class="controls-bar">
+	<span class="btn_line"></span>
+	<span class="control-prev"></span>
+	<span class="control-next"></span>
+	<span class="control-submit"></span>
+	<span class="control-reload"></span>
+</div>
+<div class="question-list">
+	<div class="question-list-content">
+		<% _.each(questionObj, function(question, j) {
+			var type = question.RecordTypeName,
+				id = question.ID,
+				text = question.Text_vod__c,
+				choices = question.Answer_Choice_vod__c.replace(/;0/g, "").split(";"),
+				response = question.Response_vod__c || "";
+		%>
+			<div id="<%= id %>" class="survey-question" type="<%= type %>">
+				<div class="question-title">
+					<div class="question-num"><%= (j + 1) %></div>
+					<div class="question-text"><span><%= text %></span></div>
+				</div>
+				<div class="question-choices">
+					<% if (type === "Picklist") { %> 
+						<select name="<%= id%>">
+							<option value="" <%= (value == response ? "selected" : "") %>>== Select your answer ==</option>
+							<% _.each(choices, function(value, i) { %>
+								<option value="<%= value %>" <%= (value == response ? "selected" : "") %>><%= value %></option>
+							<% }); %>
+						</select>
+					<% } else if (type === "Text") { %> 
+						<input type="text" name="<%= id %>" value="<%= response %>">
+					<% } else if (type === "Radio") { %> 
+						<ul>
+							<% _.each(choices, function(value, i) { %>
+								<li>
+									<input type="radio" name="<%= id %>" id="<%= (id + i) %>" value="<%= value %>" <%= (value == response ? "checked": "") %>>
+									<label for="<%= (id + i) %>" class="radio"><%= value %></label>
+								</li>
+							<% }); %>
+						</ul>
+					<% } else if (type === "Multiselect") { %> 
+						<% var responses = response.split(";"); %>
+						<ul>
+							<% _.each(choices, function(value, i) { %>
+								<li>
+									<input type="checkbox" name="<%= id %>" id="<%= (id + i) %>" value="<%= value %>" <%= ($.inArray(value, responses) >= 0 ? "checked" : "") %>>
+									<label for="<%= (id + i) %>" class="checkbox"><%= value %></label>
+								</li>
+							<% }); %>
+						</ul>
+					<% } else if (type === "Number") { %> 
+						<input type="number" name="<%= id %>" value="<%= response %>">
+					<% } else if (type === "Long Text") { %> 
+						<textarea name="<%= id %>"><%= response %></textarea>
+					<% } %>
+				</div>
+			</div>
+		<% }); %>
+	</div>
+</div>

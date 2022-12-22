@@ -1,0 +1,408 @@
+html * {
+    -webkit-touch-callout: none;
+    /* prevent callout to copy image, etc when tap to hold */
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+    -webkit-user-select: none;
+    /* prevent copy paste, to allow, change 'none' to 'text' */
+}
+
+ /* Ipad Pro Landscape  */
+
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+	body {
+		transform: scale(1.335);
+		-webkit-transform: scale(1.335);
+		transform-origin: 0 0;
+		-webkit-transform-origin: 0 0;
+		overflow: hidden;
+	}
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'AvenirNextLTPro';
+    color: #645e5e;
+    font-size: 15px;
+}
+
+body { overflow: hidden; padding: 0; position: relative;}
+
+
+sup, sub {line-height: 0;font-size: 70%;}
+
+ul{list-style-type: none; padding: 0; margin: 0;}
+
+
+/* Wrapper------------------------------*/
+
+
+.bg{
+	background:#f6f7f8;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1024px;
+    height: 768px;
+}
+
+
+.po {position: absolute;}
+.none {display: none;}
+.cap{text-transform: uppercase;}
+
+/*Color ----------------*/
+.white {color:#fff;}
+.black {color: #000;}
+.cyan {color: #4d7f86;}
+.orange { color: #e85700}
+
+
+
+
+/* Font-face class ----------------------*/
+
+.normal, .book{font-weight: normal}
+.demi{font-weight: 400;}
+.medium{font-weight: 500;}
+.bold, b{font-weight: 700;}
+.black{font-weight: 900;}
+.heavy{font-weight: 600;}
+.heavyvn{font-weight: 650;}
+
+ 
+/**/
+
+
+header{
+	width: 896px;
+	position:absolute;
+	top: 60px;
+	left: 70px;
+}
+.m0 {
+    transform: matrix(0.500000,0.000000,0.000000,0.500000,0,0);
+    -ms-transform: matrix(0.500000,0.000000,0.000000,0.500000,0,0);
+    -webkit-transform: matrix(0.500000,0.000000,0.000000,0.500000,0,0);
+    transform-origin: top left;
+}
+
+.oralair_flow  header h1, .oralair_flow header h1 p span{color: #c7d43f;}
+.staloral_flow  header h1 {color: red;}
+.staloral_flow header h1 span{color: #800060;}
+
+.oralair_flow  header h1 p{color: #00842d;}
+.staloral_flow  header h1 p{}
+
+.oralair_flow  .title_top{
+    font-size: 20px;
+    top: 190px;
+    left: 70px;
+    font-weight:normal;
+    position: absolute;
+    text-transform: uppercase;
+}
+
+/*Responsive*/
+.responsive_wrap {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 1024px;
+    height: 768px;
+}
+
+/*popup*/
+.popup{
+	width: 1024px;
+	height: 768px;
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	z-index: 103;
+	display: none;
+	box-sizing: border-box;
+	vertical-align: middle;
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
+.contentPU {
+    background: #fff;    
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    padding: 20px 0;
+    box-sizing: border-box;
+    border-top-right-radius:20px;
+    height: 627px;
+}
+.oralair_flow .contentPU{width: 884px;}
+.staloral_flow .contentPU{width: 922px;}
+
+.titlePU{
+    top: 20px;
+    left: 30px;
+    font-weight: normal;
+    position: absolute;
+    width: 834px;
+    text-transform: uppercase;
+}
+.oralair_flow .titlePU{color: #c7d43f;font-size: 25px;}
+.staloral_flow .titlePU{color: #f7a823;font-size: 30px;}
+
+.oralair_flow .titlePU strong{
+    font-size: 30px;
+    color: #00842d;
+}
+
+/**/
+
+.button_top{
+    top: 0;
+    left: 42px;
+    position: absolute;
+    -webkit-transform: matrix(1, 0, 0, 1, 845, 0);
+    transform: matrix(1, 0, 0, 1, 845, 0);
+    z-index: 101;
+    width: 179px;
+    height: 51px;
+    background: url("../images/top-nav.png") no-repeat;
+    -webkit-background-size: 100% auto;
+    background-size: 100% auto;
+}
+
+/**/
+
+.button_left{
+    width: 33px;
+    height: 100%;
+    bottom: 0;
+    left: 10px;
+    position: absolute;
+    z-index: 2;
+    width: 55px;
+    height: 768px;
+    box-shadow: 3px 0px 7px grey;
+    background: white;
+}
+
+.button_left ul{list-style-type: none;padding: 0;margin: 0;transform: matrix(1, 0, 0, 1, 0, 509);}
+
+.button_left ul li{
+    width: 55px;
+    height: 50px;
+}
+
+.button_left ul li.btn_sitemap{
+    background: url("../images/i_sitemap.png") no-repeat center center;
+    -webkit-background-size: 25px 22px;
+    background-size: 25px 22px;
+}
+
+.oralair_flow .button_left ul li.btn_sitemap.active{
+    background: url("../images/i_sitemapact.png") no-repeat center center;
+    -webkit-background-size: 25px 22px;
+    background-size: 25px 22px;
+}
+.staloral_flow .button_left ul li.btn_sitemap.active{
+    background: url("../images/staloral/i_sitemapact.png") no-repeat center center;
+    -webkit-background-size: 25px 22px;
+    background-size: 25px 22px;
+}
+
+.button_left ul li.btn_home{
+    background: url("../images/i_home.png") no-repeat center center;
+    -webkit-background-size: 23px 23px;
+    background-size: 23px 23px;
+
+}
+.button_left ul li.btn_home.active{
+    background: url("../images/i_homeact.png") no-repeat center center;
+    -webkit-background-size: 25px 22px;
+    background-size: 25px 22px;
+}
+
+
+.button_left ul li.btn_ref{
+    background: url("../images/i_ref.png") no-repeat center center;
+    -webkit-background-size: 18px 22px;
+    background-size: 18px 22px;
+}
+
+.oralair_flow .button_left ul li.btn_ref.active{
+    background: url("../images/i_refact.png") no-repeat center center;
+    -webkit-background-size: 18px 22px;
+    background-size: 18px 22px;
+}
+.staloral_flow .button_left ul li.btn_ref.active{
+    background: url("../images/staloral/i_refact.png") no-repeat center center;
+    -webkit-background-size: 18px 22px;
+    background-size: 18px 22px;
+}
+
+.button_left ul li.btn_smpc{
+    background: url("../images/i_smpc.png") no-repeat center center;
+    -webkit-background-size: 18px 14px;
+    background-size: 18px 14px;
+}
+
+.oralair_flow .button_left ul li.btn_smpc.act{
+    background: url("../images/i_smpcact.png") no-repeat center center;
+    -webkit-background-size: 18px 14px;
+    background-size: 18px 14px;
+}
+.staloral_flow .button_left ul li.btn_smpc.act{
+    background: url("../images/staloral/i_smpcact.png") no-repeat center center;
+    -webkit-background-size: 18px 14px;
+    background-size: 18px 14px;
+}
+
+.button_left ul li.btn_res{
+    background: url("../images/i_res.png") no-repeat center center;
+    -webkit-background-size: 24px 19px;
+    background-size: 24px 19px;
+}
+
+.button_left ul li.btn_sta{
+    background: url("../images/i_sta.png") no-repeat center center;
+    -webkit-background-size: 24px 24px;
+    background-size: 24px 24px;
+}
+
+.deactive{opacity: 0.5;}
+/**/
+.pi_wrapper {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 102;
+}
+
+.pi_subnav {
+    position: absolute;
+    left: 62px;
+    top: 490px;
+    width: 270px;
+    height: 121px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid #f7a822;
+    text-align: center;
+    font-size: 20px;
+    color: #637985;
+    padding: 18px 14px;
+    background: #fff;
+    border-radius: 30px;
+}
+
+.pi_subnav div {
+    padding-bottom: 15px;
+    margin-bottom: 14px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-bottom: 1px solid #f7a822;
+}
+
+.pi_subnav div:last-child{border-bottom: none;}
+
+
+/**/
+.btnPU, .btnSty{
+    width: 37px;
+    height: 38px;
+    position: absolute;
+}
+
+.btnPU{
+    background: url("../images/btn_pu.png") no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+.btnSty{
+    background: url("../images/btn_sty.png") no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+.close{
+    background: url(../images/close.png) no-repeat;
+    background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    width: 41px;
+    height: 40px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+
+/**/
+
+.btn_note{
+    background: url("../images/plus.png") no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+    width: 80px;
+    height: 71px;
+    position: absolute;
+}
+
+.btn_note.act{
+   background: url("../images/plus_act.png") no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%; 
+}
+
+.bg_note{
+    font-size: 17px;
+    background: #fff;
+    border: 1px solid #c7d43f;
+    border-radius: 10px;
+    box-sizing: content-box;
+    position: absolute;
+}
+
+/*Staloral----------------------*/
+.staloral_flow  .btnPU, .staloral_flow  .btnSty{
+    width: 37px;
+    height: 38px;
+    position: absolute;
+}
+
+.staloral_flow  .btnPU{
+    background: url("../images/staloral/btn_pu.png") no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+.staloral_flow  .btnSty{
+    background: url("../images/staloral/btn_sty.png") no-repeat;
+    -webkit-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+.staloral_flow  .close{
+    background: url('../images/staloral/close.png') no-repeat;
+    background-size: 100% 100%;
+    -webkit-background-size: 100% 100%;
+    width: 41px;
+    height: 40px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+

@@ -1,0 +1,37 @@
+/*-------Begin:Menu system---------*/
+#menu {
+    left: 0;
+    bottom: 0;
+    height: 51px;
+    width: 1024px;
+    position: absolute;
+}
+
+
+
+.navi{left: 0;width: 859px;position: absolute;height: 50px;right: 0;margin: 0 auto;bottom: 0;}
+
+.navi li{
+	font-size: 14px; 
+	font-weight:normal;
+	float: left; 
+	text-align: center;
+	background: #eef0f2;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	height:51px;
+	margin-left: 6px;
+	width: 163px;
+	display: -webkit-box;
+	-webkit-box-pack: center;
+	-webkit-box-align: center;
+}
+.oralair_flow .navi li{}
+.staloral_flow .navi li:nth-child(1), .staloral_flow .navi li:nth-child(3){padding: 9px 0px;}
+
+
+.navi li.act{background: #c8cdd0; font-family: 'Gotham_Bold';}
+
+
+
+

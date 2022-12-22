@@ -1,0 +1,42 @@
+html,body
+{
+	margin:0px;
+	padding:0px;
+	background:#fff;
+}
+
+
+iframe
+{
+	width:1024px;
+	height:768px;
+	position:absolute;
+	z-index:0;
+	border:0px;
+	background:#fff;
+}
+#back
+{
+	position: absolute;
+	right: 0px;
+	top: 10px;
+	height: 40px;
+	width: 36px;
+	height: 76px;
+	color: transparent;
+	background-image: url(../images/bt.png);
+	z-index: 99;
+}
+
+#waiting
+{
+	background:url("../images/icon_wait.gif") no-repeat scroll center center;
+	width:32px;
+	height:32px;
+	position:absolute;
+	left:50%;
+	top:368px;
+	display:none;
+	z-index:100;
+	
+}

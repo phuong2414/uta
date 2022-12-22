@@ -1,0 +1,20 @@
+<ul class="navi">
+	<li class="16 17" slideid="16">Fokussiert auf<br>Patienten</li>
+    <li class="18" slideid="18">Anhaltend wirksam</li>
+	<li class="19 20 21" slideid="19">Überzeugend<br>im Praxisalltag</li>
+    <li class="22" slideid="22">Langjährig bewährt</li>
+    <li class="23" slideid="23">Anwendung</li>
+</ul>
+
+<script type="text/javascript">	
+	$('.navi li').bind('tapone', function() {		
+		var slideId = $(this).attr('slideid');
+		if(slideId == '' || slideId == undefined){
+			return;
+		}
+		
+        drcom.gotoSlide(slideId);		     
+    });	
+    
+	$('.'+drcom.menuItem).addClass('act');
+</script>

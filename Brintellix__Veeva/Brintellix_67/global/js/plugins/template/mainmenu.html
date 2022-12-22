@@ -1,0 +1,45 @@
+<div class="mainmenu">
+	<div class="mainmenu-content">
+		<ul style="display: -webkit-box;">
+			<% _.each(data, function(item) { %>
+				<% if (!item.hideonmenu) { %>
+					<li class="menu-item <%= (item.id == currentId ? 'selected' : '') %>" menu-id="<%= item.id %>" flow-id="<%= (item.presentation || '') %>" style="display: block; float: none;">
+						<a>
+							<span class="menu-text"><%= item.title %></span>
+							<% if (conf.hasImage) { %>
+								<img src="<%= conf.thumbPath %>/<%= item.name %>.jpg">
+							<% } %>
+							<% if (item.submenu) { %>
+								<i class="icon-marker"></i>
+							<% } %>
+						</a>
+					</li>
+				<% } %>
+			<% }); %>
+		</ul>
+	</div>
+</div>
+
+<% 
+	var hasSub = conf.submenu && conf.submenu.isShow,
+		layout = conf.submenu ? (conf.submenu.layout || 'horizontal') : 'horizontal';
+%>
+
+<% if (hasSub && layout === 'horizontal') { %>
+<div class="submenu hide">
+	<div class="handler"></div>
+	<div class="submenu-content"></div>
+</div>
+<% } %>
+
+<% if (hasSub && layout === 'vertical') { %>
+<div class="vertical-submenu-content"></div>
+<% } %>
+
+
+
+
+
+
+
+

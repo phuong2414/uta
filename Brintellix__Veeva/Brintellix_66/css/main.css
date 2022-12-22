@@ -1,0 +1,216 @@
+#kihkcc41Image {
+  width: 852px;
+  height: 169px;
+  -webkit-transform: matrix(1, 0, 0, 1, 107, 108);
+  transform: matrix(1, 0, 0, 1, 107, 108);
+  background: url(../images/patientdetail1.png) center center no-repeat;
+  background-size: contain;
+}
+
+#container {
+  background-color: white;
+}
+
+#kihkcc45Text {
+  left: 282.86px;
+  top: 514.713647px;
+  position: absolute;
+  font-size: 30px;
+}
+
+#kihkd4abText {
+  top: 140.93235px;
+  left: 868.88625px;
+  position: absolute;
+  font-size: 14px;
+}
+
+.header {
+  left: 102.74195px;
+  line-height: 1.2;
+  top: 45.83995px;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  left: 102.74195px;
+}
+
+.name {
+  font-weight: bold;
+  position: absolute;
+  left: 268px;
+  top: 103px;
+  /* top: 133.3349px;
+  left: 312.9466px; */
+  line-height: inherit;
+  font-size: 70px;
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+.status {
+  line-height: inherit;
+  position: absolute;
+  left: 312.9466px;
+  /* line-height: 1.280003; */
+  top: 174.613111px;
+  font-size: 36px;
+  color: rgb(255, 255, 255);
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 0);
+}
+
+.text {
+  line-height: inherit;
+  position: absolute;
+  left: 312.9466px;
+  line-height: 1.280003;
+  top: 233.8579px;
+  font-size: 36px;
+  color: rgb(255, 255, 255);
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 0);
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.line {
+  background: url(../images/line.png) center no-repeat;
+  background-size: contain;
+  position: absolute;
+}
+
+.title {
+  position: absolute;
+  left: 571px;
+  line-height: inherit;
+  height: 50px;
+  top: 133.5249px;
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+}
+
+.list1 {
+  position: absolute;
+  left: 571px;
+  line-height: 1.2;
+  height: 129.6px;
+  top: 164.8192px;
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+}
+
+.list2 {
+  position: absolute;
+  left: 571px;
+  line-height: 1.2;
+  height: 129.6px;
+  top: 186.5817px;
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+}
+
+.question {
+  left: 240px;
+  height: 50px;
+  top: 311.0249px;
+  font-size: 50px;
+  color: rgb(232, 87, 0);
+  position: absolute;
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 0);
+}
+
+.circle1 {
+  background: url(../images/circle1.png) center center no-repeat;
+  background-size: contain;
+  width: 222px;
+  height: 222px;
+  -webkit-transform: matrix(1, 0, 0, 1, 149, 348);
+  transform: matrix(1, 0, 0, 1, 149, 348);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.text-circle1 {
+  position: absolute;
+  transform: matrix(0.5, 0, 0, 0.5, -40, -7);
+  width: 237px;
+  height: 225px;
+  left: 240.7835px;
+  line-height: inherit;
+  top: 411.18765px;
+  font-size: 38px;
+  color: rgb(100, 94, 94);
+}
+
+.circle2 {
+  background: url(../images/circle2.png) center center no-repeat;
+  background-size: contain;
+  width: 222px;
+  height: 223px;
+  -webkit-transform: matrix(1, 0, 0, 1, 423, 348);
+  transform: matrix(1, 0, 0, 1, 423, 348);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.text-circle2 {
+  position: absolute;
+  transform: matrix(0.5, 0, 0, 0.5, -27.5, 0);
+  width: 270px;
+  height: 190px;
+  left: 494.1367px;
+  line-height: inherit;
+  top: 416.4524px;
+  font-size: 38px;
+  color: rgb(100, 94, 94);
+}
+
+.circle3 {
+  background: url(../images/circle3.png) center center no-repeat;
+  background-size: contain;
+  width: 222px;
+  height: 223px;
+  -webkit-transform: matrix(1, 0, 0, 1, 423, 348);
+  transform: matrix(1, 0, 0, 1, 697, 348);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.text-circle3 {
+  position: absolute;
+  width: 330px;
+  height: 190px;
+  transform: matrix(0.5, 0, 0, 0.5, -52.5, 0);
+  left: 779.288px;
+  line-height: inherit;
+  top: 416.4524px;
+  font-size: 38px;
+  color: rgb(100, 94, 94);
+}
+
+.plus {
+  background: url(../images/plus.png) center center no-repeat;
+  background-size: contain;
+  width: 90px;
+  height: 49px;
+  -webkit-transform: matrix(1, 0, 0, 1, 887, 612.25);
+  transform: matrix(1, 0, 0, 1, 887, 612.25);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.text-footer {
+  position: absolute;
+  left: 107.4466px;
+  line-height: 1.2;
+  height: 55.2px;
+  top: 675.305237px;
+  font-size: 23px;
+  color: rgb(100, 94, 94);
+  -webkit-transform: matrix(0.5, 0, 0, 0.5, 0, 0);
+}

@@ -1,0 +1,55 @@
+<div class="tabs sky-tabs">
+	<ul>
+		<% var i = 1; %>
+		<% _.each(data, function(items, flow) { %>
+			<li class="tab sky-tab-content-<%= i %>" flow-id="<%= flow %>">
+				<div class="tab-content">
+					<div class="headers">
+						<ul class="headers-content">
+							<% _.each(items, function(item) { %>
+							<% if (!item.hideonslide) %>
+								<li><div class="header"><%= item.sitemaptitle || item.title %></div></li>
+							<% }); %>
+						</ul>
+					</div>
+					<div class="content-wrapper">
+						<div class="content">
+							<ul>
+								<% _.each(items, function(item) { %>
+									<% if (!item.hideonslide && !item.disabled) { %>
+										<li class="menuitem_<%= item.id %>" menu-id="<%= item.id %>" >
+											<a>
+												<span class="icon"></span>
+												<span class="border"></span>
+												<span class="text"><%= item.title %></span>
+												<img src="thumbnails/<%= item.name %>.jpg" />
+											</a>
+											<% if (item.submenu) { %>
+												<ul>
+													<% _.each(item.submenu, function(submenu) { %>
+														<% if (!submenu.hideonslide && !submenu.disabled) { %>
+															<li class="menuitem_<%= submenu.id %>" menu-id="<%=submenu.id%>" >
+																<a>
+																	<span class="icon"></span>
+																	<span class="border"></span>
+																	<span class="text"><%= submenu.title %></span>
+																	<img src="thumbnails/<%= submenu.name %>.jpg" />
+																</a>
+															</li>
+														<% } %>
+													<% }); %>
+												</ul>
+											<% } %>
+										</li>
+									<% } %>
+								<% });%>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</li>
+			<% i++; %>
+		<% }); %>
+	</ul>
+</div>
+
